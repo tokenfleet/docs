@@ -75,6 +75,10 @@ const config: Config = {
           title: 'Documentation',
           items: [
             {
+              label: "Website",
+              href: 'https://tokenfleet.io'
+            },
+            {
               label: 'Introduction',
               to: '/',
             },

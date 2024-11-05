@@ -82,6 +82,10 @@ export default {
           "title": "Documentation",
           "items": [
             {
+              "label": "Website",
+              "href": "https://tokenfleet.io"
+            },
+            {
               "label": "Introduction",
               "to": "/"
             },
