@@ -11,6 +11,16 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "contact_us",
+              "path": "/contact_us",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "financial_transparency/cost_breakdown",
               "path": "/financial_transparency/cost_breakdown",
               "sidebar": "tutorialSidebar"
@@ -53,11 +63,6 @@
             {
               "id": "how_it_works/renter_rewards",
               "path": "/how_it_works/renter_rewards",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "information",
-              "path": "/contact_us",
               "sidebar": "tutorialSidebar"
             },
             {

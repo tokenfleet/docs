@@ -29,7 +29,7 @@ To start investing:
 
 ### What returns can I expect from my investment?
 
-Investors receive a share of rental income based on their token holdings. Returns vary depending on the demand for each vehicle and market conditions. For details on projected returns, see our [Financial Projections](./financial_projections) page.
+Investors receive a share of rental income based on their token holdings. Returns vary depending on the demand for each vehicle and market conditions. For details on projected returns, see our [Financial Projections](./financial_transparency/financial_projections) page.
 
 ### Are my investments secure?
 
@@ -43,7 +43,7 @@ Rental income is distributed proportionally to token holders based on their owne
 
 ### What fees does Token Fleet charge?
 
-Token Fleet charges platform fees outlined in the investment documentation. Fees cover services such as platform maintenance, transaction processing, and security measures. Refer to the [Cost Breakdown and Revenue Sharing](./cost_breakdown_revenue_sharing) page for more details.
+Token Fleet charges platform fees outlined in the investment documentation. Fees cover services such as platform maintenance, transaction processing, and security measures. Refer to the [Cost Breakdown and Revenue Sharing](./financial_transparency/cost_breakdown) page for more details.
 
 ### Can I sell my tokens before the end of the investment period?
 
@@ -63,7 +63,7 @@ The KYC process typically takes 24-48 hours, depending on the accuracy of submit
 
 ### How does Token Fleet ensure the security of smart contracts?
 
-Our smart contracts undergo rigorous testing and independent third-party audits. We implement secure coding practices, real-time monitoring, and emergency pause mechanisms to maintain the integrity of our platform. For more details, visit our [Smart Contract Security Measures](./smart_contract_security).
+Our smart contracts undergo rigorous testing and independent third-party audits. We implement secure coding practices, real-time monitoring, and emergency pause mechanisms to maintain the integrity of our platform. For more details, visit our [Smart Contract Security Measures](./security_and_compliances/smart_contracts).
 
 ### What should I do if I notice suspicious activity on my account?
 

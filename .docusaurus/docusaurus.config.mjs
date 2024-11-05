@@ -39,10 +39,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
+          "editUrl": "https://github.com/tokenfleet/docs/tree/main/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -82,11 +79,23 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Documentation",
           "items": [
             {
-              "label": "Docs",
-              "to": "/docs/intro"
+              "label": "Introduction",
+              "to": "/"
+            },
+            {
+              "label": "Investment Risks",
+              "to": "/legal/investment_risks"
+            },
+            {
+              "label": "KYC/AML Procedures",
+              "to": "/security_and_compliances/kyc_aml"
+            },
+            {
+              "label": "Contact and Support",
+              "to": "/contact_us"
             }
           ]
         },
@@ -94,29 +103,37 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Telegram",
+              "href": "https://t.me/tokenfleet_io"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/tokenfleet_io"
+            },
+            {
+              "label": "Facebook",
+              "href": "https://www.facebook.com/profile.php?id=61568084092915"
             }
           ]
         },
         {
-          "title": "More",
+          "title": "Follow Us",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Instagram",
+              "href": "https://www.instagram.com/tokenfleet"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/tokenfleet/docs"
+              "label": "LinkedIn",
+              "href": "https://www.linkedin.com/company/tokenfleet"
+            },
+            {
+              "label": "YouTube",
+              "href": "https://www.youtube.com/channel/UCOjJJAKCuCJgOmKHHRh_4ZQ"
+            },
+            {
+              "label": "TikTok",
+              "href": "https://www.tiktok.com/tokenfleet"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Introduction",
-  "description": "Token Fleet is an innovative investment platform that bridges the gap between the world of cryptocurrencies and real-world assets, enabling users to invest in luxury cars through tokenized ownership. Our mission is to democratize access to high-value assets by leveraging blockchain technology, providing transparent and profitable investment opportunities in the automotive sector.",
+  "description": "Token Fleet is an innovative investment platform bridging cryptocurrencies and real-world assets. We empower users to invest in luxury cars through tokenized ownership, offering a transparent, secure, and profitable investment opportunity in the automotive sector.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",

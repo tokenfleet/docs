@@ -1,290 +1,251 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/blog-61e": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "c15d9823"
   },
   "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "f81c1134"
   },
   "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "sidebar": "814f3328",
+    "__props": "ef8b811a"
   },
   "/blog/authors/erika-6a4": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-erikad-85-700"
+    "sidebar": "814f3328",
+    "__props": "d858f126"
   },
   "/blog/authors/marcos-9a1": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-marcosffa-0ad"
+    "sidebar": "814f3328",
+    "__props": "ffa8f5d1"
   },
   "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "sidebar": "814f3328",
+    "__props": "3a2db09e"
   },
   "/blog/tags/fleet-98a": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "__props": "__props---blog-tags-fleetdbf-b3f"
+    "__props": "dbf54e07"
   },
   "/blog/tags/token-561": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "__props": "__props---blog-tags-token-39-a-c64"
+    "__props": "39acd2c1"
   },
   "/blog/tags/welcome-aa2": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "__props": "__props---blog-tags-welcome-436-c4b"
+    "__props": "436029cc"
   },
   "/blog/welcome-9b2": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcome-8-f-7-d90"
+    "sidebar": "814f3328",
+    "content": "8f7cb818"
   },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/-4be": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/-1b4": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---aba-d70"
+      "plugin": "aba21aa0"
     }
   },
-  "/-cf9": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---22-d-307"
+  "/-7b1": {
+    "__comp": "a7bd4aaa",
+    "__props": "22dd74f7"
   },
-  "/-836": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/-0e5": {
+    "__comp": "a94703ab"
   },
   "/category/financial-transparency-07d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-financial-transparencyddd-8fc"
+    "__comp": "14eb3368",
+    "__props": "ddd110fb"
   },
   "/category/how-it-works-13e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-how-it-worksccf-cc8"
+    "__comp": "14eb3368",
+    "__props": "ccfe3d1e"
   },
   "/category/legal-and-disclaimer-2e4": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-legal-and-disclaimer-78-f-e9b"
+    "__comp": "14eb3368",
+    "__props": "78ff0bd0"
   },
   "/category/security-and-compliances-051": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-security-and-compliances-929-ae8"
+    "__comp": "14eb3368",
+    "__props": "929d9d85"
   },
   "/category/team-and-partners-eda": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-team-and-partners-160-5c7"
+    "__comp": "14eb3368",
+    "__props": "16007073"
   },
-  "/contact_us-8df": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---information-116-3e5"
+  "/contact_us-230": {
+    "__comp": "17896441",
+    "content": "d783dd4b"
+  },
+  "/faq-a3b": {
+    "__comp": "17896441",
+    "content": "0480b142"
   },
   "/financial_transparency/cost_breakdown-c2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---financial-transparency-cost-breakdown-659-09a"
+    "__comp": "17896441",
+    "content": "659dbd41"
   },
   "/financial_transparency/financial_projections-c94": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---financial-transparency-financial-projectionsd-56-9d5"
+    "__comp": "17896441",
+    "content": "d56db045"
   },
   "/financial_transparency/how_we_manage_our_cars-d82": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---financial-transparency-how-we-manage-our-cars-82-d-bc1"
+    "__comp": "17896441",
+    "content": "82d05b11"
   },
   "/financial_transparency/revenue_stream-87b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---financial-transparency-revenue-stream-658-fea"
+    "__comp": "17896441",
+    "content": "658f208c"
   },
   "/how_it_works/exit_strategy-5a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-exit-strategy-7-a-1-ad5"
+    "__comp": "17896441",
+    "content": "7a10f4f8"
   },
   "/how_it_works/investor_rewards-3ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-investor-rewards-430-ee6"
+    "__comp": "17896441",
+    "content": "4308aefb"
   },
   "/how_it_works/overview-219": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-overviewa-77-b82"
+    "__comp": "17896441",
+    "content": "a77d52c2"
   },
   "/how_it_works/rental_operations-e96": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-rental-operations-647-877"
+    "__comp": "17896441",
+    "content": "64771e57"
   },
   "/how_it_works/renter_rewards-ec2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-renter-rewardsfb-3-714"
+    "__comp": "17896441",
+    "content": "fb345a20"
   },
   "/legal/investment_risks-011": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legal-investment-risks-3-d-4-80b"
+    "__comp": "17896441",
+    "content": "3d415861"
   },
   "/legal/privacy_policy-f9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legal-privacy-policy-82-e-bd7"
+    "__comp": "17896441",
+    "content": "82eee685"
   },
   "/legal/terms_of_services-fb1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legal-terms-of-servicesf-39-808"
+    "__comp": "17896441",
+    "content": "f39c68a6"
   },
   "/roadmap-8cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---roadmap-0-df-c9a"
+    "__comp": "17896441",
+    "content": "0dffb83e"
   },
   "/security_and_compliances/kyc_aml-683": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---security-and-compliances-kyc-amla-15-17f"
+    "__comp": "17896441",
+    "content": "a153aef5"
   },
   "/security_and_compliances/regulations-139": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---security-and-compliances-regulationsf-70-c8e"
+    "__comp": "17896441",
+    "content": "f70c2640"
   },
   "/security_and_compliances/smart_contracts-9cf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---security-and-compliances-smart-contracts-3-b-5-e5f"
+    "__comp": "17896441",
+    "content": "3b54987c"
   },
   "/selection_process-603": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---selection-process-658-a10"
+    "__comp": "17896441",
+    "content": "658cf32b"
   },
   "/team_and_partners/members-1a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---team-and-partners-membersf-64-9b2"
+    "__comp": "17896441",
+    "content": "f64b35bf"
   },
   "/team_and_partners/partners-ab3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---team-and-partners-partnersf-8-c-eab"
+    "__comp": "17896441",
+    "content": "f8ced91a"
   },
   "/-fc9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intro-0-e-3-7b8"
+    "__comp": "17896441",
+    "content": "0e384e19"
   }
 }

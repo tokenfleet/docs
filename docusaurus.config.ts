@@ -7,23 +7,15 @@ const config: Config = {
   tagline: 'Democratizing Luxury Car Ownership Through Blockchain Technology',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
   url: 'https://docs.tokenfleet.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'tokenfleet', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  organizationName: 'tokenfleet',
+  projectName: 'docs',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -34,13 +26,9 @@ const config: Config = {
       'classic',
       {
         docs: {
-          routeBasePath: '/', // Set this value to '/'.
-
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/tokenfleet/docs/tree/main/',
+          editUrl: 'https://github.com/tokenfleet/docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -48,14 +36,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          editUrl: 'https://github.com/tokenfleet/docs/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -65,7 +46,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Token Fleet',
@@ -80,7 +60,7 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/tokenfleet/docs',
           label: 'GitHub',
@@ -92,11 +72,23 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Documentation',
           items: [
             {
-              label: 'Docs',
-              to: '/docs/intro',
+              label: 'Introduction',
+              to: '/',
+            },
+            {
+              label: 'Investment Risks',
+              to: '/legal/investment_risks',
+            },
+            {
+              label: 'KYC/AML Procedures',
+              to: '/security_and_compliances/kyc_aml',
+            },
+            {
+              label: 'Contact and Support',
+              to: '/contact_us',
             },
           ],
         },
@@ -104,29 +96,37 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Telegram',
+              href: 'https://t.me/tokenfleet_io',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/tokenfleet_io',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/profile.php?id=61568084092915',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Follow Us',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/tokenfleet',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/tokenfleet/docs',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/tokenfleet',
+            },
+            {
+              label: 'YouTube',
+              href: 'https://www.youtube.com/channel/UCOjJJAKCuCJgOmKHHRh_4ZQ',
+            },
+            {
+              label: 'TikTok',
+              href: 'https://www.tiktok.com/tokenfleet',
             },
           ],
         },
