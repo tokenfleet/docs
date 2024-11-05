@@ -3,158 +3,121 @@ sidebar_position: 4
 title: Cost Breakdown and Revenue Sharing
 ---
 
-Cost Breakdown and Revenue Sharing
+# Cost Breakdown and Revenue Sharing
 
-At Token Fleet, transparency is key. This page details the costs involved in adding a car to our platform and how revenues are shared between the company and our investors.
+At Token Fleet, we prioritize transparency by detailing the costs of each car and how revenue is shared.
 
-Initial Investment Breakdown
+## Initial Investment Breakdown
 
-When we list a car on our platform, the total investment includes:
+Each car’s total investment includes:
 
-	1.	Vehicle Purchase Price (X): The base cost of the car.
-	2.	Company Fee (10% of X): Supports company operations like marketing, platform development, and administration.
-	3.	Security Deposit (10% of X):
-	•	Purpose: Covers maintenance, unexpected expenses, and all car-associated costs.
-	•	Return Policy: Returned to investors at the end of the investment term, less any unreplenished expenses.
-	4.	Insurance Costs: Variable depending on the car, providing comprehensive coverage.
-	5.	Fixed Annual Costs:
-	•	Registration fees
-	•	GPS installation and maintenance
-	•	Parking and storage fees
-	•	Other annual expenses
+1. **Vehicle Purchase Price**: The car’s base cost.
+2. **Company Fee (10%)**: Supports operations, marketing, and administration.
+3. **Security Deposit (10%)**:
+   - Covers maintenance and car-related costs.
+   - Returned to investors at term end, less unreplenished expenses.
+4. **Insurance Costs**: Varies based on vehicle type.
+5. **Fixed Annual Costs**: Registration, GPS, storage, and other annual fees.
 
-Example
+### Example
 
-	•	Car Purchase Price (X): $50,000
-	•	Company Fee (10% of X): $5,000
-	•	Security Deposit (10% of X): $5,000
-	•	Insurance Costs: $2,000
-	•	Fixed Annual Costs: $1,000
+- **Car Purchase Price**: $50,000
+- **Company Fee**: $5,000
+- **Security Deposit**: $5,000
+- **Insurance Costs**: $2,000
+- **Fixed Annual Costs**: $1,000
 
-Total Initial Investment: $50,000 + $5,000 + $5,000 + $2,000 + $1,000 = $63,000
+**Total Initial Investment**: $63,000
 
-Revenue from Rentals
+## Revenue from Rentals
 
-Each time the car is rented, the rental income is divided as follows:
+Rental income distribution:
 
-	•	Company Share (20%): Supports operations, customer service, and ensures high-quality service.
-	•	Marketing and Maintenance Fund (10%):
-	•	Usage: Funds car marketing efforts, detailing, and minor maintenance.
-	•	Goal: Keeps the car in top condition and attractive to renters.
-	•	Investor Share (70%): Distributed among investors proportionally based on their investment.
+- **Company Share (20%)**: Supports operations and customer service.
+- **Marketing & Maintenance (10%)**: Funds car marketing and minor maintenance.
+- **Investor Share (70%)**: Proportional to investment.
 
-Example
+### Example
 
-	•	Monthly Rental Income: $4,000
+- **Monthly Rental Income**: $4,000
 
 Distribution:
 
-	•	Company Share (20%): 20% of $4,000 = $800
-	•	Marketing and Maintenance Fund (10%): 10% of $4,000 = $400
-	•	Investor Share (70%): 70% of $4,000 = $2,800
+- **Company Share**: $800
+- **Marketing & Maintenance**: $400
+- **Investor Share**: $2,800
 
-Replenishing the Security Deposit
+## Security Deposit Replenishment
 
-If funds are used from the security deposit for maintenance or unexpected expenses, replenishment is prioritized:
+If used for maintenance, the security deposit is replenished with rental income as a priority.
 
-	1.	First Priority: Rental income is used to refill the security deposit back to its original amount.
-	2.	After Replenishment: Once the security deposit is full, the standard revenue distribution resumes.
+### Example Scenario
 
-Example Scenario
+- **Used from Deposit**: $1,000
+- **Next Month’s Income**: $4,000
+  - **Replenishment**: $1,000 allocated to deposit.
+  - **Remaining Income Distribution**: Based on $3,000.
 
-	•	Used from Security Deposit: $1,000 for unexpected repairs.
-	•	Next Month’s Rental Income: $4,000
+## Sale of the Car
 
-Replenishment:
+At term end or sale:
 
-	•	Allocate $1,000 to replenish the security deposit.
+- **Company Share (10%)**: For value retention efforts.
+- **Investor Returns**:
+  - Security Deposit: Returned, less unreplenished expenses.
+  - **Investor Share (90%)**: Proportional sale revenue.
 
-Remaining Rental Income: $4,000 - $1,000 = $3,000
+### Example
 
-Distribution of Remaining Income:
-
-	•	Company Share (20%): 20% of $3,000 = $600
-	•	Marketing and Maintenance Fund (10%): 10% of $3,000 = $300
-	•	Investor Share (70%): 70% of $3,000 = $2,100
-
-Sale of the Car
-
-At the end of the investment term or when the car is sold, proceeds are distributed as follows:
-
-	•	Company Share (10%): Ensures we maintain the car’s value and condition throughout the investment period.
-	•	Investors’ Return:
-	•	Security Deposit Return: Initial security deposit is returned to investors, less any unreplenished expenses.
-	•	Investors’ Share (90%): 90% of the sale price, distributed proportionally.
-
-Example
-
-	•	Sale Price: $40,000
-	•	Unreplenished Security Deposit Expenses: $0 (fully replenished)
+- **Sale Price**: $40,000
+- **Unreplenished Deposit**: $0
 
 Distribution:
 
-	•	Company Share (10%): 10% of $40,000 = $4,000
-	•	Investors’ Share (90%): 90% of $40,000 = $36,000
-	•	Return of Security Deposit: $5,000
+- **Company Share**: $4,000
+- **Investor Share**: $36,000
+- **Security Deposit Return**: $5,000
 
-Total Returned to Investors: $36,000 + $5,000 = $41,000
+**Total Returned to Investors**: $41,000
 
-Summary of Investor Returns
+## Summary of Investor Returns
 
-Investors benefit from:
+- **Rental Income**: 70% share per rental.
+- **Sale Proceeds**: 90% of sale price at term end.
+- **Security Deposit Return**: Less any unreplenished expenses.
 
-	1.	Rental Income: Receive 70% of rental income, distributed according to investment proportion.
-	2.	Sale Proceeds: Get 90% of the car’s sale price at the end of the term.
-	3.	Security Deposit Return: Initial deposit returned, minus any unreplenished expenses.
+## Company Earnings
 
-Company’s Earnings
+- **Initial Fee**: 10% of purchase.
+- **Rental Share**: 20% of rental income.
+- **Sale Share**: 10% of sale price.
 
-The company earns from:
+Funds support platform operations, marketing, and service quality.
 
-	1.	Initial Company Fee: 10% of the car’s purchase price.
-	2.	Rental Income Share: 20% of each rental transaction.
-	3.	Sale Proceeds Share: 10% of the car’s sale price.
+## Investor Protection Measures
 
-These funds support:
+- **Security Deposit**: Covers maintenance and unforeseen costs.
+- **Replenishment Policy**: Ensures deposit remains fully funded for expenses.
 
-	•	Marketing and advertising
-	•	Platform maintenance and development
-	•	Customer service and support
-	•	Operational costs to ensure seamless service
+## Benefits to Investors
 
-Investor Protection Measures
+- **Transparent Financials**: Clear cost and revenue details.
+- **Passive Income**: Steady rental income.
+- **Capital Appreciation**: Sale profit potential.
+- **Risk Mitigation**: Security deposit and policies protect investments.
 
-	•	Security Deposit:
-	•	Acts as a financial buffer for maintenance and unexpected costs.
-	•	Ensures the vehicle remains in excellent condition without surprise charges.
-	•	Replenishment Policy:
-	•	Prioritizes maintaining the security deposit at its original level.
-	•	Protects investors’ interests by ensuring funds are available for necessary expenses.
+## FAQs
 
-Benefits to Investors
+### What if the security deposit isn’t fully replenished at term end?
+Unreplenished amounts are deducted from the deposit return to investors.
 
-	•	Transparent Financials: Clear understanding of costs and revenue distribution.
-	•	Passive Income: Regular earnings from rental income.
-	•	Capital Appreciation: Potential profit from the sale of the car.
-	•	Professional Management: All aspects handled by Token Fleet, from maintenance to marketing.
-	•	Risk Mitigation: Security deposit and replenishment policies protect your investment.
+### Can the security deposit cover non-vehicle expenses?
+No, it’s strictly for vehicle-related costs.
 
-Frequently Asked Questions
+### How often are rental incomes distributed?
+Between 1-3 days after each rental.
 
-What happens if the security deposit is not fully replenished by the end of the term?
+**Contact Us**  
+For more details, reach out to our support team.
 
-Any unreplenished amount will be deducted from the security deposit return to investors.
-
-Can the company use the security deposit for non-vehicle-related expenses?
-
-No, the security deposit is strictly used for vehicle-related costs such as maintenance, repairs, and associated expenses.
-
-How often are rental incomes distributed to investors?
-
-Rental incomes are typically distributed monthly, but this may vary based on rental schedules and operational considerations.
-
-Get in Touch
-
-If you have further questions or need more details, please contact our support team.
-
-By clearly outlining the costs and revenue-sharing structure, we aim to provide you with a transparent view of your investment. Our goal is to maximize returns for our investors while maintaining a high-quality fleet that attracts renters.
+Token Fleet’s clear cost and revenue-sharing structure provides transparency and maximizes investor returns

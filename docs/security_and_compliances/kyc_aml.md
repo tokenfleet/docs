@@ -1,54 +1,54 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: KYC/AML Procedures
 ---
 
 # KYC/AML Procedures
 
-At Token Fleet, we are committed to maintaining the highest standards of compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations. Our robust KYC/AML procedures ensure that our platform operates within the bounds of the law and protects the integrity of our investors' funds. We are integrated with [Sumsub](https://sumsub.com/) for this.
+Token Fleet is dedicated to maintaining high standards of compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations. Our robust KYC/AML procedures protect our platform’s integrity and safeguard investor funds, and we partner with [Sumsub](https://sumsub.com/) for enhanced compliance solutions.
 
 ## Customer Identification Program (CIP)
 
-Our Customer Identification Program (CIP) is the foundation of our KYC/AML compliance framework:
+Our Customer Identification Program (CIP) forms the foundation of our KYC/AML compliance framework:
 
-1. **Identity Verification:** All users are required to provide valid government-issued identification documents, such as a passport or national ID card, to verify their identity.
+1. **Identity Verification**: Users provide government-issued ID documents, such as a passport or national ID card, to verify their identity.
 
-2. **Enhanced Due Diligence:** For high-risk users or transactions, we may require additional documentation or conduct enhanced due diligence to mitigate potential risks.
+2. **Enhanced Due Diligence**: For higher-risk users or transactions, we may request additional documentation or conduct further due diligence to minimize risks.
 
 ## Risk-Based Approach
 
-We employ a risk-based approach to KYC/AML compliance, tailoring our procedures to the specific risks associated with different user profiles and transactions:
+We use a risk-based approach to tailor our procedures based on different user profiles and transaction types:
 
-1. **Risk Assessment:** We conduct regular risk assessments to identify and categorize potential money laundering and terrorist financing risks associated with our platform.
+1. **Risk Assessment**: Regular assessments identify and categorize potential money laundering and terrorist financing risks associated with our platform.
 
-2. **Transaction Monitoring:** Our system continuously monitors user transactions for suspicious activities, such as unusual transaction patterns or large volume transactions, and flags them for further review.
+2. **Transaction Monitoring**: Our system monitors transactions for suspicious patterns or high volumes, flagging these for further review.
 
-3. **Sanctions Screening:** We screen all users and transactions against international sanctions lists to ensure compliance with global AML regulations.
+3. **Sanctions Screening**: Users and transactions are screened against international sanctions lists to ensure global AML compliance.
 
 ## Ongoing Monitoring and Reporting
 
-Our KYC/AML compliance efforts extend beyond the initial onboarding process:
+Our compliance efforts extend beyond onboarding:
 
-1. **Periodic Reviews:** We conduct periodic reviews of user accounts to ensure that the information on file remains up-to-date and accurate.
+1. **Periodic Reviews**: We conduct regular reviews of user accounts to ensure that account information remains accurate and up-to-date.
 
-2. **Suspicious Activity Reporting:** If we detect any suspicious activities or transactions, we file Suspicious Activity Reports (SARs) with the relevant authorities, as required by law.
+2. **Suspicious Activity Reporting**: If suspicious activities are detected, we file Suspicious Activity Reports (SARs) with relevant authorities as required by law.
 
-3. **Record Retention:** We maintain comprehensive records of user information and transactions for a specified period, as mandated by applicable regulations.
+3. **Record Retention**: We maintain comprehensive records of user information and transactions as mandated by regulations.
 
 ## Staff Training and Awareness
 
-To ensure the effective implementation of our KYC/AML procedures, we invest in the training and awareness of our staff:
+We invest in staff training to ensure effective KYC/AML implementation:
 
-1. **Regular Training:** All employees undergo regular training on KYC/AML best practices, regulatory requirements, and our internal compliance policies.
+1. **Regular Training**: Employees receive ongoing training on KYC/AML best practices, regulatory requirements, and our internal policies.
 
-2. **Compliance Culture:** We foster a culture of compliance throughout our organization, emphasizing the importance of adherence to KYC/AML procedures at all levels.
+2. **Compliance Culture**: We promote a culture of compliance organization-wide, emphasizing adherence to KYC/AML standards.
 
 ## Independent Audits and Reviews
 
-To validate the effectiveness of our KYC/AML procedures, we subject our compliance framework to regular independent audits and reviews:
+We validate our KYC/AML processes through regular audits:
 
-1. **Third-Party Audits:** We engage reputable, independent auditors to assess our KYC/AML procedures and provide recommendations for improvement.
+1. **Third-Party Audits**: Reputable, independent auditors assess our procedures and provide recommendations.
 
-2. **Regulatory Reviews:** We cooperate fully with regulatory authorities during any reviews or investigations, providing all necessary documentation and information.
+2. **Regulatory Reviews**: We fully cooperate with regulatory authorities during any reviews or investigations.
 
-At Token Fleet, we are dedicated to upholding the highest standards of KYC/AML compliance to protect our investors, our platform, and the integrity of the global financial system. If you have any questions or concerns about our KYC/AML procedures, please contact our compliance team.
+Token Fleet is committed to the highest standards of KYC/AML compliance, safeguarding both investors and platform integrity. For inquiries, please contact our compliance team.

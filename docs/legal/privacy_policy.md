@@ -5,44 +5,44 @@ title: Privacy Policy
 
 # Privacy Policy
 
-At Token Fleet, we are committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, and disclose your information when you use our platform.
+At Token Fleet, we are committed to safeguarding your personal information. This Privacy Policy explains how we collect, use, and disclose your data.
 
 ## 1. Information We Collect
 
-1.1. Personal Information: When you register for an account, we collect only your address.
+1.1. **Personal Information**: We collect your address during account registration.
 
-1.2. Identity Verification Information: To comply with KYC/AML regulations, we may collect additional information, such as government-issued identification documents and email.
+1.2. **Identity Verification**: To comply with KYC/AML, additional information like government-issued IDs and email may be required.
 
-1.3. Transaction Information: We collect information about your investment transactions, including the amount, date, and time of each transaction.
+1.3. **Transaction Information**: We collect data on your investment transactions, including amounts, dates, and times.
 
 ## 2. Use of Information
 
-2.1. We use your personal information to provide and improve our services, process your investments, distribute rental income, and communicate with you about your account.
+2.1. We use personal information to provide services, process investments, distribute rental income, and manage accounts.
 
-2.2. We may use your information to comply with legal obligations, such as KYC/AML requirements and tax reporting.
+2.2. Information may be used to comply with legal obligations, including KYC/AML and tax reporting.
 
-2.3. We may use aggregate, anonymized data for research and analytics purposes to improve our platform and services.
+2.3. Aggregate, anonymized data may be used for research to improve our platform.
 
 ## 3. Disclosure of Information
 
-3.1. We may disclose your information to third-party service providers who assist us in operating the platform and providing services to you.
+3.1. We may share data with third-party providers for platform operations and service delivery.
 
-3.2. We may disclose your information to law enforcement agencies, regulators, or other third parties if required by law or to protect our rights and interests.
+3.2. Disclosure may occur if required by law or to protect our rights.
 
 ## 4. Data Security
 
-4.1. We implement industry-standard security measures to protect your personal information from unauthorized access, alteration, or disclosure.
+4.1. We implement security measures to protect against unauthorized access, alteration, or disclosure.
 
-4.2. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+4.2. However, internet transmission and storage are not 100% secure, and absolute security cannot be guaranteed.
 
 ## 5. Your Rights
 
-5.1. You have the right to access, update, and delete your personal information. You can exercise these rights by contacting our support team.
+5.1. You may access, update, or delete your data by contacting our support team.
 
-5.2. If you are located in the European Economic Area, you may have additional rights under the General Data Protection Regulation (GDPR).
+5.2. If you are in the EEA, additional rights under GDPR may apply.
 
 ## 6. Changes to this Privacy Policy
 
-6.1. We may update this Privacy Policy from time to time. We will notify you of any material changes via email or by posting a notice on the platform.
+6.1. We may update this Privacy Policy periodically. Material changes will be communicated via email or a platform notice.
 
-By using Token Fleet, you consent to the collection, use, and disclosure of your personal information as described in this Privacy Policy. If you have any questions or concerns, please contact our support team.
+By using Token Fleet, you consent to this Privacy Policy. For questions or concerns, contact our support team.
