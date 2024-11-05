@@ -44,7 +44,7 @@ Understanding how and when you can realize the returns on your investment is cru
 ## Reinvestment Opportunities
 
 - **Roll Over**: Investors can choose to reinvest their returns into new vehicles or investment opportunities on the platform.
-- **Diversification**: Explore different vehicle classes or investment durations to suit your investment strategy.
+- **Diversification**: Explore different vehicle classes to suit your investment strategy.
 
 ## Support and Guidance
 
@@ -54,7 +54,3 @@ Understanding how and when you can realize the returns on your investment is cru
 ## Conclusion
 
 Our exit strategy is designed to be transparent, efficient, and profitable, providing you with confidence in your investment journey with Token Fleet.
-
----
-
-[Back to How It Works](./overview)

@@ -23,17 +23,17 @@
   "hasTruncateMarker": true,
   "authors": [
     {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
+      "name": "Marcos Maceo",
+      "title": "Founder Token Fleet",
+      "url": "https://github.com/stdevMac",
       "page": {
         "permalink": "/blog/authors/yangshun"
       },
       "socials": {
-        "x": "https://x.com/yangshunz",
-        "github": "https://github.com/yangshun"
+        "x": "https://x.com/maceo_eth",
+        "github": "https://github.com/stdevMac"
       },
-      "imageURL": "https://github.com/yangshun.png",
+      "imageURL": "https://github.com/stdevMac.png",
       "key": "yangshun"
     }
   ],
@@ -50,9 +50,5 @@
   "prevItem": {
     "title": "MDX Blog Post",
     "permalink": "/blog/mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "First Blog Post",
-    "permalink": "/blog/first-blog-post"
   }
 }

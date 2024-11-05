@@ -17,20 +17,13 @@ At Token Fleet, we believe in rewarding our investors for their trust and contri
 
 ### 2. **Loyalty Program**
 
-- **Accumulate Points**: Earn loyalty points based on your investment amount and the duration of your investment.
-- **Exclusive Benefits**: Redeem points for rewards such as fee discounts, priority access to new investment opportunities, and invitations to VIP events.
-- **Investor Tiers**: Advance through tiers (Silver, Gold, Platinum) to unlock greater benefits.
-
-### 3. **VIP Experiences**
-
-- **Luxury Events**: Access exclusive events, such as luxury car shows, networking gatherings, and investor summits.
-- **Personalized Services**: Enjoy dedicated account management and personalized investment advice.
-- **Travel Perks**: Receive special offers on travel and accommodation in Dubai.
+- **Accumulate Points**: Earn loyalty points based on your investment amount. Each time you invest, you earn 1 point for each invested dollar. Each time a direct referal invest, you earn 0.5 points of the amount they invested.
+- **Exclusive Benefits**: Redeem points for rewards such as cash prices, gift cards, traveling packages, priority access to new investment opportunities, and invitations to VIP events.
 
 ## How to Participate
 
 - **Automatic Enrollment**: All investors are automatically enrolled in the Investor Rewards Program upon making their first investment.
-- **Track Your Rewards**: Use your investor dashboard to monitor your referral bonuses, loyalty points, and tier status.
+- **Track Your Rewards**: Use your investor dashboard to monitor your referral bonuses and loyalty points.
 - **Redeem Rewards**: Easily redeem your rewards through the platform as you accumulate points.
 
 ## Terms and Conditions
@@ -42,7 +35,3 @@ At Token Fleet, we believe in rewarding our investors for their trust and contri
 ## Start Earning Rewards Today
 
 Enhance your investment journey with Token Fleet's Investor Rewards Program. Share the opportunity with others and reap the benefits together.
-
----
-
-[Back to How It Works](./overview) | [Rental Operations](./rental_operations)

@@ -10,13 +10,14 @@ Our financial projections are based on comprehensive market research, historical
 ## Return on Investment (ROI)
 
 - **Projected ROI Over 4 Years**: 140% - 160% total return on initial investment.
-- **Annualized ROI**: Approximately 35% - 40% per annum.
+- **Annualized ROI**: Approximately 35% - 40% per year.
 
 #### Example Calculation
 
 - **Initial Investment**: $10,000
 - **Total Returns After 4 Years**: $14,000 - $16,000
 - **Monthly Income**: Regular distributions from rental income contribute to overall returns.
+- **Selling Price**: Around year 4, we might sell the cars according to their performance, to get the best return at the selling time. Around 50%-60% of the buying cost.
 
 ## Sensitivity Analysis
 
@@ -37,7 +38,3 @@ Our financial projections are based on comprehensive market research, historical
 ## Disclaimer
 
 These financial projections are estimates based on current information and are subject to change. Actual results may differ due to unforeseen factors. Investors should consider these projections as part of a comprehensive analysis before making investment decisions.
-
----
-
-[Back to Expense Breakdown](./expense_breakdown) | [Next: Auditing](./auditing)

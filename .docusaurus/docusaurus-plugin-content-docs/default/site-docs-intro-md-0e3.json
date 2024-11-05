@@ -1,23 +1,25 @@
 {
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Introduction",
+  "description": "Token Fleet is an innovative investment platform that bridges the gap between the world of cryptocurrencies and real-world assets, enabling users to invest in luxury cars through tokenized ownership. Our mission is to democratize access to high-value assets by leveraging blockchain technology, providing transparent and profitable investment opportunities in the automotive sector.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
-  "slug": "/intro",
-  "permalink": "/docs/intro",
+  "slug": "/",
+  "permalink": "/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "editUrl": "https://github.com/tokenfleet/docs/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "title": "Introduction",
+    "slug": "/"
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "How It Works",
+    "permalink": "/category/how-it-works"
   }
 }

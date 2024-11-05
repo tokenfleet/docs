@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Token Fleet",
+  "tagline": "Democratizing Luxury Car Ownership Through Blockchain Technology",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://docs.tokenfleet.io",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "tokenfleet",
+  "projectName": "docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,8 +26,9 @@ export default {
       "classic",
       {
         "docs": {
+          "routeBasePath": "/",
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/tokenfleet/docs/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -52,9 +53,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Token Fleet",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Token Fleet Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -62,7 +63,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Docs"
         },
         {
           "to": "/blog",
@@ -70,7 +71,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/tokenfleet/docs",
           "label": "GitHub",
           "position": "right"
         }
@@ -84,7 +85,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Docs",
               "to": "/docs/intro"
             }
           ]
@@ -115,12 +116,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/tokenfleet/docs"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Token Fleet, by Reliable Route."
     },
     "prism": {
       "theme": {

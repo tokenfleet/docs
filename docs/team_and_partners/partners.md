@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 title: Partners
 ---
 
@@ -27,35 +27,15 @@ Token Fleet collaborates with a network of esteemed partners to enhance our serv
   - A premier travel agency providing customized travel experiences in the UAE.
   - Specializes in luxury accommodations, tours, and exclusive events.
 
-## **Latin House Restaurant and Lounge**
+## **Latin House Travel Agency**
 
-- **Industry**: Hospitality
+- **Industry**: Travel and Tourism
 - **Partnership Overview**:
-  - Enhances the renter experience by offering exclusive dining experiences to Token Fleet customers.
-  - Joint promotions and events to attract high-end clientele.
+  - Collaborates on offering luxury travel packages that include Token Fleet's vehicle rentals.
+  - Promotes our rental services to tourists and business travelers visiting Dubai.
 - **About Latin House**:
-  - A renowned restaurant in Dubai offering fine dining with a fusion of Latin American cuisines.
-  - Recognized for its exceptional service and vibrant atmosphere.
-
-## **Blockchain Technology Partners (BTP)**
-
-- **Industry**: Technology Solutions
-- **Partnership Overview**:
-  - Provides blockchain infrastructure support and development services.
-  - Assists with the integration of cutting-edge technologies to improve platform security and efficiency.
-- **About BTP**:
-  - A global firm specializing in blockchain solutions for businesses.
-  - Offers expertise in smart contracts, distributed ledger technology, and cybersecurity.
-
-## **Emirates Insurance Company**
-
-- **Industry**: Insurance Services
-- **Partnership Overview**:
-  - Supplies comprehensive insurance coverage for our fleet of vehicles.
-  - Offers competitive rates and tailored policies to suit our operational needs.
-- **About Emirates Insurance**:
-  - One of the leading insurance providers in the UAE.
-  - Provides a wide range of insurance products, known for reliability and excellent customer service.
+  - A premier travel agency providing customized travel experiences in the UAE.
+  - Specializes in Latin travelers, ensuring accommodations, tours, and exclusive events.
 
 ## **Partnership Benefits**
 
@@ -68,8 +48,4 @@ Our collaborations with these esteemed organizations allow us to:
 
 ## Interested in Partnering with Us?
 
-We are always open to exploring new partnerships that align with our mission and values. If you're interested in collaborating with Token Fleet, please reach out to us at [partners@tokenfleet.com](mailto:partners@tokenfleet.com).
-
----
-
-[Back to Our Team](./members)
+We are always open to exploring new partnerships that align with our mission and values. If you're interested in collaborating with Token Fleet, please reach out to us at [partners@tokenfleet.io](mailto:partners@tokenfleet.io).

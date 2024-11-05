@@ -12,8 +12,7 @@ At Token Fleet, we value our renters just as much as our investors. Our Renter R
 ### 1. **Loyalty Points**
 
 - **Earn Points**: Accumulate points for every rental booking made through our platform.
-- **Redeem Rewards**: Use points to get discounts on future rentals, free upgrades, or exclusive merchandise.
-- **Tiered Membership**: Advance through membership levels (Bronze, Silver, Gold) to unlock additional perks.
+- **Redeem Rewards**: Use points to get discounts on cash prices, gift cards, traveling packages, priority access to new investment opportunities, and invitations to VIP events.
 
 ### 2. **Exclusive Offers**
 
@@ -28,19 +27,15 @@ At Token Fleet, we value our renters just as much as our investors. Our Renter R
 
 ## How to Join
 
-- **Easy Enrollment**: Simply create an account on our rental platform to start earning rewards.
-- **Track Your Progress**: Use your customer dashboard to monitor your points and membership tier.
+- **Easy Enrollment**: Each time users rent a car, they will get a code for claiming their rewards. You just need to join the platoform!
+- **Track Your Progress**: Use your customer dashboard to monitor your points.
 - **Stay Informed**: Receive updates on new offers and rewards through email notifications.
 
 ## Commitment to Excellence
 
 - **Quality Assurance**: We ensure all vehicles are in pristine condition for an exceptional driving experience.
-- **Customer Support**: Our dedicated support team is available to assist you 24/7 with any inquiries or assistance you may need.
+- **Customer Support**: Our dedicated support team is available to assist you with any inquiries or assistance you may need.
 
 ## Book Your Next Luxury Ride
 
 Experience the thrill of driving a luxury car while enjoying the benefits of our Renter Rewards Program. Explore our fleet and make your reservation today.
-
----
-
-[Back to How It Works](./overview) | [Exit Strategy](./exit_strategy)

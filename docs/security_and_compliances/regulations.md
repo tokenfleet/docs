@@ -5,7 +5,7 @@ title: Regulatory Compliance
 
 # Regulatory Compliance
 
-Reliable Route is committed to operating in full compliance with all applicable laws and regulations in the jurisdictions where we conduct business. We understand the importance of regulatory compliance in ensuring the stability, security, and legitimacy of our platform and the broader cryptocurrency and blockchain ecosystem.
+Token Fleet is committed to operating in full compliance with all applicable laws and regulations in the jurisdictions where we conduct business. We understand the importance of regulatory compliance in ensuring the stability, security, and legitimacy of our platform and the broader cryptocurrency and blockchain ecosystem.
 
 ## Cryptocurrency Regulations
 
@@ -57,4 +57,4 @@ We recognize that the regulatory landscape is constantly evolving, and we are co
 
 3. **Compliance Audits:** We conduct periodic internal audits and engage external auditors to assess the effectiveness of our compliance programs and identify areas for improvement.
 
-At Reliable Route, regulatory compliance is not just a legal obligation, but a core value that underpins our commitment to building a trusted, secure, and sustainable investment platform. If you have any questions or concerns about our regulatory compliance efforts, please contact our compliance team.
+At Token Fleet, regulatory compliance is not just a legal obligation, but a core value that underpins our commitment to building a trusted, secure, and sustainable investment platform. If you have any questions or concerns about our regulatory compliance efforts, please contact our compliance team.

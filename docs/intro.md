@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Introduction
+slug: /
 ---
 
 # Welcome to Token Fleet
@@ -46,7 +47,3 @@ To start investing with Token Fleet, follow these simple steps:
 To learn more about how Token Fleet works, our tokenomics, car portfolio, financial transparency, and more, please explore the various sections of our documentation. If you have any questions or need assistance, don't hesitate to reach out to our support team.
 
 **Join us on this exciting journey as we revolutionize the way people invest in luxury assets!**
-
----
-
-[Get Started](./how_it_works/overview)

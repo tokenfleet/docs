@@ -5,7 +5,7 @@ title: Investment Risks and Disclaimers
 
 # Investment Risks and Disclaimers
 
-Investing in tokenized assets, such as the luxury car investments offered on the Reliable Route platform, involves significant risks. Before investing, you should carefully consider the following risks and disclaimers:
+Investing in tokenized assets, such as the luxury car investments offered on the Token Fleet platform, involves significant risks. Before investing, you should carefully consider the following risks and disclaimers:
 
 ## 1. Market Risk
 
@@ -21,7 +21,7 @@ Investing in tokenized assets, such as the luxury car investments offered on the
 
 ## 3. Operational Risk
 
-3.1. The success of your investment depends on the ability of Reliable Route to effectively manage the luxury car assets, including acquisition, maintenance, and rental operations.
+3.1. The success of your investment depends on the ability of Token Fleet to effectively manage the luxury car assets, including acquisition, maintenance, and rental operations.
 
 3.2. Any operational failures, such as damage to the cars or disruptions in the rental process, could negatively impact your investment returns.
 
@@ -29,30 +29,30 @@ Investing in tokenized assets, such as the luxury car investments offered on the
 
 4.1. The legal and regulatory landscape surrounding tokenized investments and cryptocurrencies is evolving and may be subject to change.
 
-4.2. Changes in laws, regulations, or enforcement actions could impact the viability of the Reliable Route platform or the value of your investment.
+4.2. Changes in laws, regulations, or enforcement actions could impact the viability of the Token Fleet platform or the value of your investment.
 
 ## 5. Technological Risk
 
-5.1. The Reliable Route platform relies on blockchain technology, which may be subject to technical vulnerabilities, security breaches, or other unforeseen issues.
+5.1. The Token Fleet platform relies on blockchain technology, which may be subject to technical vulnerabilities, security breaches, or other unforeseen issues.
 
 5.2. Any disruptions or failures in the underlying technology could result in the loss of your investment or personal information.
 
 ## 6. No Guarantee of Returns
 
-6.1. Reliable Route does not guarantee any specific investment returns or rental income. Past performance is not indicative of future results.
+6.1. Token Fleet does not guarantee any specific investment returns or rental income. Past performance is not indicative of future results.
 
 6.2. You may not receive the expected rental income or may experience a loss of your principal investment.
 
 ## 7. Investor Responsibility
 
-7.1. You are solely responsible for conducting your own due diligence and assessing the risks and merits of any investment opportunity on the Reliable Route platform.
+7.1. You are solely responsible for conducting your own due diligence and assessing the risks and merits of any investment opportunity on the Token Fleet platform.
 
 7.2. You should consult with a qualified financial advisor, legal counsel, or tax professional before making any investment decisions.
 
 ## 8. Disclaimer of Liability
 
-8.1. Reliable Route is not liable for any investment losses, damages, or other liabilities arising from your use of the platform or your investment decisions.
+8.1. Token Fleet is not liable for any investment losses, damages, or other liabilities arising from your use of the platform or your investment decisions.
 
-8.2. You acknowledge and agree that your use of the Reliable Route platform and your investment decisions are at your own risk.
+8.2. You acknowledge and agree that your use of the Token Fleet platform and your investment decisions are at your own risk.
 
-By using Reliable Route and investing in tokenized luxury car assets, you represent and warrant that you have read, understood, and accept these investment risks and disclaimers. If you have any questions or concerns, please contact our support team before making any investment decisions.
+By using Token Fleet and investing in tokenized luxury car assets, you represent and warrant that you have read, understood, and accept these investment risks and disclaimers. If you have any questions or concerns, please contact our support team before making any investment decisions.

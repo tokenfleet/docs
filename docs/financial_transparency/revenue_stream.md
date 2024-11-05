@@ -44,23 +44,19 @@ Understanding how Token Fleet generates revenue is crucial for assessing the pot
 
 ### **Investor Returns**
 
-- **Monthly Income Distributions**: Rental income is distributed to investors on a monthly basis, proportional to their token holdings.
-- **Sale Proceeds Distribution**: At the end of the investment term, proceeds from vehicle sales are allocated to investors.
+- **Income Distributions**: Rental income is distributed to investors between 1-3 days after each rental, proportional to their token holdings.
+- **Sale Proceeds Distribution**: At the end of the investment term, 90% from vehicle sales are allocated back to investors.
 
 ### **Operational Costs**
 
-- **Maintenance and Upkeep**: A portion of the revenue is reinvested into maintaining the fleet to ensure vehicles remain in premium condition.
+- **Maintenance and Upkeep**: 10% of the revenue is reinvested into maintaining the fleet to ensure vehicles remain in premium condition.
 - **Expansion Initiatives**: Funds are allocated for acquiring new vehicles and exploring new market opportunities.
 
 ### **Company Earnings**
 
-- **Management Fees**: Token Fleet retains a management fee to cover operational expenses and profit margins.
+- **Management Fees**: Token Fleet retains a management fee of 20% to cover operational expenses and profit margins on each rental.
 - **Reinvestment**: Part of the earnings is reinvested into technological upgrades and platform enhancements.
 
 ## Sustainable Growth
 
 Our diversified revenue streams and strategic allocation of funds position Token Fleet for sustainable growth and profitability, ultimately benefiting our investors.
-
----
-
-[Next: Expense Breakdown](./expense_breakdown)

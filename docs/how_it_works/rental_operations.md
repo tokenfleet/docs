@@ -15,7 +15,7 @@ Our rental operations are the cornerstone of generating consistent income for ou
 
 ## Rental Platforms and Partnerships
 
-- **Multi-Channel Distribution**: We list our vehicles on popular rental platforms, including our proprietary booking system and third-party services.
+- **Multi-Channel Distribution**: We list our vehicles on popular rental platforms, including our proprietary booking system and third-party services (Powered by Reliable Route).
 - **Strategic Partnerships**: Collaborations with hotels, travel agencies, and corporate entities to secure rental bookings.
 - **Marketing Efforts**: Targeted marketing campaigns to attract high-end clientele and increase rental demand.
 
@@ -42,7 +42,3 @@ Our rental operations are the cornerstone of generating consistent income for ou
 - **Transparent Reporting**: Investors receive detailed reports on rental income, occupancy rates, and operational expenses.
 - **Maximized Returns**: Efficient rental operations lead to higher rental income and, consequently, better returns for investors.
 - **Risk Mitigation**: Diversified rental channels and a robust customer base reduce dependency on a single market segment.
-
----
-
-[Back to How It Works](./overview) | [Renter Rewards](./renter_rewards)

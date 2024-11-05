@@ -1,68 +1,143 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/",
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "financial_transparency/cost_breakdown",
+              "path": "/financial_transparency/cost_breakdown",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "financial_transparency/financial_projections",
+              "path": "/financial_transparency/financial_projections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "financial_transparency/how_we_manage_our_cars",
+              "path": "/financial_transparency/how_we_manage_our_cars",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "financial_transparency/revenue_stream",
+              "path": "/financial_transparency/revenue_stream",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how_it_works/exit_strategy",
+              "path": "/how_it_works/exit_strategy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how_it_works/investor_rewards",
+              "path": "/how_it_works/investor_rewards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how_it_works/overview",
+              "path": "/how_it_works/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how_it_works/rental_operations",
+              "path": "/how_it_works/rental_operations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "how_it_works/renter_rewards",
+              "path": "/how_it_works/renter_rewards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "information",
+              "path": "/contact_us",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "legal/investment_risks",
+              "path": "/legal/investment_risks",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "legal/privacy_policy",
+              "path": "/legal/privacy_policy",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "legal/terms_of_services",
+              "path": "/legal/terms_of_services",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "roadmap",
+              "path": "/roadmap",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "security_and_compliances/kyc_aml",
+              "path": "/security_and_compliances/kyc_aml",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "security_and_compliances/regulations",
+              "path": "/security_and_compliances/regulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "security_and_compliances/smart_contracts",
+              "path": "/security_and_compliances/smart_contracts",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "selection_process",
+              "path": "/selection_process",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "team_and_partners/members",
+              "path": "/team_and_partners/members",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "team_and_partners/partners",
+              "path": "/team_and_partners/partners",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/how-it-works",
+              "path": "/category/how-it-works",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/financial-transparency",
+              "path": "/category/financial-transparency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/legal-and-disclaimer",
+              "path": "/category/legal-and-disclaimer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/security-and-compliances",
+              "path": "/category/security-and-compliances",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/team-and-partners",
+              "path": "/category/team-and-partners",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,7 +145,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/",
                 "label": "intro"
               }
             }

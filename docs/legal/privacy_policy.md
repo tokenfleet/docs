@@ -5,13 +5,13 @@ title: Privacy Policy
 
 # Privacy Policy
 
-At Reliable Route, we are committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, and disclose your information when you use our platform.
+At Token Fleet, we are committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, and disclose your information when you use our platform.
 
 ## 1. Information We Collect
 
-1.1. Personal Information: When you register for an account, we collect your name, email address, phone number, and other contact information.
+1.1. Personal Information: When you register for an account, we collect only your address.
 
-1.2. Identity Verification Information: To comply with KYC/AML regulations, we may collect additional information, such as government-issued identification documents and proof of address.
+1.2. Identity Verification Information: To comply with KYC/AML regulations, we may collect additional information, such as government-issued identification documents and email.
 
 1.3. Transaction Information: We collect information about your investment transactions, including the amount, date, and time of each transaction.
 
@@ -45,4 +45,4 @@ At Reliable Route, we are committed to protecting the privacy and security of yo
 
 6.1. We may update this Privacy Policy from time to time. We will notify you of any material changes via email or by posting a notice on the platform.
 
-By using Reliable Route, you consent to the collection, use, and disclosure of your personal information as described in this Privacy Policy. If you have any questions or concerns, please contact our support team.
+By using Token Fleet, you consent to the collection, use, and disclosure of your personal information as described in this Privacy Policy. If you have any questions or concerns, please contact our support team.

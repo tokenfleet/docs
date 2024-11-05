@@ -5,7 +5,7 @@ title: KYC/AML Procedures
 
 # KYC/AML Procedures
 
-At Reliable Route, we are committed to maintaining the highest standards of compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations. Our robust KYC/AML procedures ensure that our platform operates within the bounds of the law and protects the integrity of our investors' funds.
+At Token Fleet, we are committed to maintaining the highest standards of compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations. Our robust KYC/AML procedures ensure that our platform operates within the bounds of the law and protects the integrity of our investors' funds. We are integrated with [Sumsub](https://sumsub.com/) for this.
 
 ## Customer Identification Program (CIP)
 
@@ -13,9 +13,7 @@ Our Customer Identification Program (CIP) is the foundation of our KYC/AML compl
 
 1. **Identity Verification:** All users are required to provide valid government-issued identification documents, such as a passport or national ID card, to verify their identity.
 
-2. **Proof of Address:** Users must submit proof of their residential address, such as a utility bill or bank statement, to confirm their place of residence.
-
-3. **Enhanced Due Diligence:** For high-risk users or transactions, we may require additional documentation or conduct enhanced due diligence to mitigate potential risks.
+2. **Enhanced Due Diligence:** For high-risk users or transactions, we may require additional documentation or conduct enhanced due diligence to mitigate potential risks.
 
 ## Risk-Based Approach
 
@@ -53,4 +51,4 @@ To validate the effectiveness of our KYC/AML procedures, we subject our complian
 
 2. **Regulatory Reviews:** We cooperate fully with regulatory authorities during any reviews or investigations, providing all necessary documentation and information.
 
-At Reliable Route, we are dedicated to upholding the highest standards of KYC/AML compliance to protect our investors, our platform, and the integrity of the global financial system. If you have any questions or concerns about our KYC/AML procedures, please contact our compliance team.
+At Token Fleet, we are dedicated to upholding the highest standards of KYC/AML compliance to protect our investors, our platform, and the integrity of the global financial system. If you have any questions or concerns about our KYC/AML procedures, please contact our compliance team.
