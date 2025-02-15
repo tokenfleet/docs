@@ -99,10 +99,6 @@ const config: Config = {
               to: '/legal/investment_risks',
             },
             {
-              label: 'KYC/AML Procedures',
-              to: '/security_and_compliances/kyc_aml',
-            },
-            {
               label: 'Contact and Support',
               to: '/contact_us',
             },

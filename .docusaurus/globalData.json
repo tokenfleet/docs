@@ -1,138 +1,138 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/es/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/es/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "contact_us",
-              "path": "/contact_us",
+              "path": "/es/contact_us",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq",
-              "path": "/faq",
+              "path": "/es/faq",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "financial_transparency/cost_breakdown",
-              "path": "/financial_transparency/cost_breakdown",
+              "path": "/es/financial_transparency/cost_breakdown",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "financial_transparency/financial_projections",
-              "path": "/financial_transparency/financial_projections",
+              "path": "/es/financial_transparency/financial_projections",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "financial_transparency/how_we_manage_our_cars",
-              "path": "/financial_transparency/how_we_manage_our_cars",
+              "path": "/es/financial_transparency/how_we_manage_our_cars",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "financial_transparency/revenue_stream",
-              "path": "/financial_transparency/revenue_stream",
+              "path": "/es/financial_transparency/revenue_stream",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how_it_works/exit_strategy",
-              "path": "/how_it_works/exit_strategy",
+              "path": "/es/how_it_works/exit_strategy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how_it_works/investor_rewards",
-              "path": "/how_it_works/investor_rewards",
+              "path": "/es/how_it_works/investor_rewards",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how_it_works/overview",
-              "path": "/how_it_works/overview",
+              "path": "/es/how_it_works/overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how_it_works/rental_operations",
-              "path": "/how_it_works/rental_operations",
+              "path": "/es/how_it_works/rental_operations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/",
+              "path": "/es/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "legal/investment_risks",
-              "path": "/legal/investment_risks",
+              "path": "/es/legal/investment_risks",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "legal/privacy_policy",
-              "path": "/legal/privacy_policy",
+              "path": "/es/legal/privacy_policy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "legal/terms_of_services",
-              "path": "/legal/terms_of_services",
+              "path": "/es/legal/terms_of_services",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "roadmap",
-              "path": "/roadmap",
+              "path": "/es/roadmap",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "security_and_compliances/regulations",
-              "path": "/security_and_compliances/regulations",
+              "path": "/es/security_and_compliances/regulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "security_and_compliances/smart_contracts",
-              "path": "/security_and_compliances/smart_contracts",
+              "path": "/es/security_and_compliances/smart_contracts",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "selection_process",
-              "path": "/selection_process",
+              "path": "/es/selection_process",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "team_and_partners/members",
-              "path": "/team_and_partners/members",
+              "path": "/es/team_and_partners/members",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "team_and_partners/partners",
-              "path": "/team_and_partners/partners",
+              "path": "/es/team_and_partners/partners",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/how-it-works",
-              "path": "/category/how-it-works",
+              "path": "/es/category/how-it-works",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/financial-transparency",
-              "path": "/category/financial-transparency",
+              "path": "/es/category/financial-transparency",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/legal-and-disclaimer",
-              "path": "/category/legal-and-disclaimer",
+              "path": "/es/category/legal-and-disclaimer",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/security-and-compliances",
-              "path": "/category/security-and-compliances",
+              "path": "/es/category/security-and-compliances",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/team-and-partners",
-              "path": "/category/team-and-partners",
+              "path": "/es/category/team-and-partners",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -140,7 +140,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/",
+                "path": "/es/",
                 "label": "intro"
               }
             }

@@ -1,286 +1,243 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/es/blog-334": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "36994c47"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/blog-61e": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "8b20138e"
   },
-  "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/es/blog/archive-c1d": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "dfed01cf"
   },
-  "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+  "/es/blog/authors-e39": {
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "sidebar": "814f3328",
+    "__props": "f601d5af"
   },
-  "/blog/authors/erika-6a4": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+  "/es/blog/authors/erika-048": {
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-erikad-85-700"
+    "sidebar": "814f3328",
+    "__props": "e35fb0dd"
   },
-  "/blog/authors/marcos-9a1": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+  "/es/blog/authors/marcos-544": {
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-marcosffa-0ad"
+    "sidebar": "814f3328",
+    "__props": "65a11b52"
   },
-  "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/es/blog/tags-b1d": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "sidebar": "814f3328",
+    "__props": "0c69ec8d"
   },
-  "/blog/tags/fleet-98a": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/es/blog/tags/fleet-1fe": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "__props": "__props---blog-tags-fleetdbf-b3f"
+    "__props": "ed6dfcc4"
   },
-  "/blog/tags/token-561": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/es/blog/tags/token-b46": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "__props": "__props---blog-tags-token-39-a-c64"
+    "__props": "d620b8a6"
   },
-  "/blog/tags/welcome-aa2": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/es/blog/tags/welcome-849": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---bloge-21-a91"
+        "content": "e21eefd6"
       }
     ],
-    "__props": "__props---blog-tags-welcome-436-c4b"
+    "__props": "3a3994df"
   },
-  "/blog/welcome-9b2": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/es/blog/welcome-244": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcome-8-f-7-d90"
+    "sidebar": "814f3328",
+    "content": "8f7cb818"
   },
-  "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/es/markdown-page-724": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/-32a": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/es/-962": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---aba-d70"
+      "plugin": "aba21aa0"
     }
   },
-  "/-aef": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---22-d-307"
+  "/es/-d71": {
+    "__comp": "a7bd4aaa",
+    "__props": "96eb2e13"
   },
-  "/-133": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/es/-c81": {
+    "__comp": "a94703ab"
   },
-  "/category/financial-transparency-07d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-financial-transparencyddd-8fc"
+  "/es/category/financial-transparency-360": {
+    "__comp": "14eb3368",
+    "__props": "e2930b02"
   },
-  "/category/how-it-works-13e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-how-it-worksccf-cc8"
+  "/es/category/how-it-works-f7f": {
+    "__comp": "14eb3368",
+    "__props": "a3befe49"
   },
-  "/category/legal-and-disclaimer-2e4": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-legal-and-disclaimer-78-f-e9b"
+  "/es/category/legal-and-disclaimer-a5f": {
+    "__comp": "14eb3368",
+    "__props": "05bce461"
   },
-  "/category/security-and-compliances-051": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-security-and-compliances-929-ae8"
+  "/es/category/security-and-compliances-b51": {
+    "__comp": "14eb3368",
+    "__props": "092a15f4"
   },
-  "/category/team-and-partners-eda": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---category-team-and-partners-160-5c7"
+  "/es/category/team-and-partners-f46": {
+    "__comp": "14eb3368",
+    "__props": "0622db7a"
   },
-  "/contact_us-230": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---contact-usd-78-7c6"
+  "/es/contact_us-529": {
+    "__comp": "17896441",
+    "content": "315dc128"
   },
-  "/faq-a3b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---faq-048-9a2"
+  "/es/faq-7a6": {
+    "__comp": "17896441",
+    "content": "a1514247"
   },
-  "/financial_transparency/cost_breakdown-c2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---financial-transparency-cost-breakdown-659-09a"
+  "/es/financial_transparency/cost_breakdown-e21": {
+    "__comp": "17896441",
+    "content": "015726c2"
   },
-  "/financial_transparency/financial_projections-c94": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---financial-transparency-financial-projectionsd-56-9d5"
+  "/es/financial_transparency/financial_projections-2be": {
+    "__comp": "17896441",
+    "content": "53fa33a2"
   },
-  "/financial_transparency/how_we_manage_our_cars-d82": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---financial-transparency-how-we-manage-our-cars-82-d-bc1"
+  "/es/financial_transparency/how_we_manage_our_cars-fd9": {
+    "__comp": "17896441",
+    "content": "aa031696"
   },
-  "/financial_transparency/revenue_stream-87b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---financial-transparency-revenue-stream-658-fea"
+  "/es/financial_transparency/revenue_stream-699": {
+    "__comp": "17896441",
+    "content": "1b57bba6"
   },
-  "/how_it_works/exit_strategy-5a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-exit-strategy-7-a-1-ad5"
+  "/es/how_it_works/exit_strategy-b09": {
+    "__comp": "17896441",
+    "content": "4f4a650c"
   },
-  "/how_it_works/investor_rewards-3ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-investor-rewards-430-ee6"
+  "/es/how_it_works/investor_rewards-fb1": {
+    "__comp": "17896441",
+    "content": "859964d2"
   },
-  "/how_it_works/overview-219": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-overviewa-77-b82"
+  "/es/how_it_works/overview-64f": {
+    "__comp": "17896441",
+    "content": "7d9fe2a9"
   },
-  "/how_it_works/rental_operations-e96": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-rental-operations-647-877"
+  "/es/how_it_works/rental_operations-681": {
+    "__comp": "17896441",
+    "content": "de977a40"
   },
-  "/legal/investment_risks-011": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legal-investment-risks-3-d-4-80b"
+  "/es/legal/investment_risks-b37": {
+    "__comp": "17896441",
+    "content": "0ea8ca80"
   },
-  "/legal/privacy_policy-f9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legal-privacy-policy-82-e-bd7"
+  "/es/legal/privacy_policy-00d": {
+    "__comp": "17896441",
+    "content": "2c4b56b0"
   },
-  "/legal/terms_of_services-fb1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---legal-terms-of-servicesf-39-808"
+  "/es/legal/terms_of_services-55c": {
+    "__comp": "17896441",
+    "content": "ec9315ff"
   },
-  "/roadmap-8cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---roadmap-0-df-c9a"
+  "/es/roadmap-2c9": {
+    "__comp": "17896441",
+    "content": "21fb7a6e"
   },
-  "/security_and_compliances/regulations-139": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---security-and-compliances-regulationsf-70-c8e"
+  "/es/security_and_compliances/regulations-37a": {
+    "__comp": "17896441",
+    "content": "c0bc7193"
   },
-  "/security_and_compliances/smart_contracts-9cf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---security-and-compliances-smart-contracts-3-b-5-e5f"
+  "/es/security_and_compliances/smart_contracts-6e9": {
+    "__comp": "17896441",
+    "content": "ef6a7c69"
   },
-  "/selection_process-603": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---selection-process-658-a10"
+  "/es/selection_process-123": {
+    "__comp": "17896441",
+    "content": "cd22c539"
   },
-  "/team_and_partners/members-1a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---team-and-partners-membersf-64-9b2"
+  "/es/team_and_partners/members-f32": {
+    "__comp": "17896441",
+    "content": "115f5ed8"
   },
-  "/team_and_partners/partners-ab3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---team-and-partners-partnersf-8-c-eab"
+  "/es/team_and_partners/partners-4a3": {
+    "__comp": "17896441",
+    "content": "7d2407c9"
   },
-  "/-fc9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---0-e-3-279"
+  "/es/-b15": {
+    "__comp": "17896441",
+    "content": "359fb69f"
   }
 }

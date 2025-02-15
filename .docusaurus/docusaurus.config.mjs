@@ -8,7 +8,7 @@ export default {
   "tagline": "Democratizing Luxury Car Ownership Through Blockchain Technology",
   "favicon": "img/favicon.ico",
   "url": "https://docs.tokenfleet.io",
-  "baseUrl": "/",
+  "baseUrl": "/es/",
   "organizationName": "tokenfleet",
   "projectName": "docs",
   "onBrokenLinks": "throw",
@@ -108,10 +108,6 @@ export default {
             {
               "label": "Investment Risks",
               "to": "/legal/investment_risks"
-            },
-            {
-              "label": "KYC/AML Procedures",
-              "to": "/security_and_compliances/kyc_aml"
             },
             {
               "label": "Contact and Support",

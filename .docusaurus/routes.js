@@ -3,254 +3,219 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/es/blog',
+    component: ComponentCreator('/es/blog', '334'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/es/blog/archive',
+    component: ComponentCreator('/es/blog/archive', 'c1d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/es/blog/authors',
+    component: ComponentCreator('/es/blog/authors', 'e39'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/es/blog/authors/erika',
+    component: ComponentCreator('/es/blog/authors/erika', '048'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/es/blog/authors/marcos',
+    component: ComponentCreator('/es/blog/authors/marcos', '544'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/es/blog/tags',
+    component: ComponentCreator('/es/blog/tags', 'b1d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/es/blog/tags/fleet',
+    component: ComponentCreator('/es/blog/tags/fleet', '1fe'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '61e'),
+    path: '/es/blog/tags/token',
+    component: ComponentCreator('/es/blog/tags/token', 'b46'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/es/blog/tags/welcome',
+    component: ComponentCreator('/es/blog/tags/welcome', '849'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/es/blog/welcome',
+    component: ComponentCreator('/es/blog/welcome', '244'),
     exact: true
   },
   {
-    path: '/blog/authors/erika',
-    component: ComponentCreator('/blog/authors/erika', '6a4'),
+    path: '/es/markdown-page',
+    component: ComponentCreator('/es/markdown-page', '724'),
     exact: true
   },
   {
-    path: '/blog/authors/marcos',
-    component: ComponentCreator('/blog/authors/marcos', '9a1'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/fleet',
-    component: ComponentCreator('/blog/tags/fleet', '98a'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/token',
-    component: ComponentCreator('/blog/tags/token', '561'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/welcome',
-    component: ComponentCreator('/blog/tags/welcome', 'aa2'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '9b2'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/',
-    component: ComponentCreator('/', '32a'),
+    path: '/es/',
+    component: ComponentCreator('/es/', '962'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', 'aef'),
+        path: '/es/',
+        component: ComponentCreator('/es/', 'd71'),
         routes: [
           {
-            path: '/',
-            component: ComponentCreator('/', '133'),
+            path: '/es/',
+            component: ComponentCreator('/es/', 'c81'),
             routes: [
               {
-                path: '/category/financial-transparency',
-                component: ComponentCreator('/category/financial-transparency', '07d'),
+                path: '/es/category/financial-transparency',
+                component: ComponentCreator('/es/category/financial-transparency', '360'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/category/how-it-works',
-                component: ComponentCreator('/category/how-it-works', '13e'),
+                path: '/es/category/how-it-works',
+                component: ComponentCreator('/es/category/how-it-works', 'f7f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/category/legal-and-disclaimer',
-                component: ComponentCreator('/category/legal-and-disclaimer', '2e4'),
+                path: '/es/category/legal-and-disclaimer',
+                component: ComponentCreator('/es/category/legal-and-disclaimer', 'a5f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/category/security-and-compliances',
-                component: ComponentCreator('/category/security-and-compliances', '051'),
+                path: '/es/category/security-and-compliances',
+                component: ComponentCreator('/es/category/security-and-compliances', 'b51'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/category/team-and-partners',
-                component: ComponentCreator('/category/team-and-partners', 'eda'),
+                path: '/es/category/team-and-partners',
+                component: ComponentCreator('/es/category/team-and-partners', 'f46'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/contact_us',
-                component: ComponentCreator('/contact_us', '230'),
+                path: '/es/contact_us',
+                component: ComponentCreator('/es/contact_us', '529'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/faq',
-                component: ComponentCreator('/faq', 'a3b'),
+                path: '/es/faq',
+                component: ComponentCreator('/es/faq', '7a6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/financial_transparency/cost_breakdown',
-                component: ComponentCreator('/financial_transparency/cost_breakdown', 'c2d'),
+                path: '/es/financial_transparency/cost_breakdown',
+                component: ComponentCreator('/es/financial_transparency/cost_breakdown', 'e21'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/financial_transparency/financial_projections',
-                component: ComponentCreator('/financial_transparency/financial_projections', 'c94'),
+                path: '/es/financial_transparency/financial_projections',
+                component: ComponentCreator('/es/financial_transparency/financial_projections', '2be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/financial_transparency/how_we_manage_our_cars',
-                component: ComponentCreator('/financial_transparency/how_we_manage_our_cars', 'd82'),
+                path: '/es/financial_transparency/how_we_manage_our_cars',
+                component: ComponentCreator('/es/financial_transparency/how_we_manage_our_cars', 'fd9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/financial_transparency/revenue_stream',
-                component: ComponentCreator('/financial_transparency/revenue_stream', '87b'),
+                path: '/es/financial_transparency/revenue_stream',
+                component: ComponentCreator('/es/financial_transparency/revenue_stream', '699'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/how_it_works/exit_strategy',
-                component: ComponentCreator('/how_it_works/exit_strategy', '5a5'),
+                path: '/es/how_it_works/exit_strategy',
+                component: ComponentCreator('/es/how_it_works/exit_strategy', 'b09'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/how_it_works/investor_rewards',
-                component: ComponentCreator('/how_it_works/investor_rewards', '3ac'),
+                path: '/es/how_it_works/investor_rewards',
+                component: ComponentCreator('/es/how_it_works/investor_rewards', 'fb1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/how_it_works/overview',
-                component: ComponentCreator('/how_it_works/overview', '219'),
+                path: '/es/how_it_works/overview',
+                component: ComponentCreator('/es/how_it_works/overview', '64f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/how_it_works/rental_operations',
-                component: ComponentCreator('/how_it_works/rental_operations', 'e96'),
+                path: '/es/how_it_works/rental_operations',
+                component: ComponentCreator('/es/how_it_works/rental_operations', '681'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/legal/investment_risks',
-                component: ComponentCreator('/legal/investment_risks', '011'),
+                path: '/es/legal/investment_risks',
+                component: ComponentCreator('/es/legal/investment_risks', 'b37'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/legal/privacy_policy',
-                component: ComponentCreator('/legal/privacy_policy', 'f9e'),
+                path: '/es/legal/privacy_policy',
+                component: ComponentCreator('/es/legal/privacy_policy', '00d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/legal/terms_of_services',
-                component: ComponentCreator('/legal/terms_of_services', 'fb1'),
+                path: '/es/legal/terms_of_services',
+                component: ComponentCreator('/es/legal/terms_of_services', '55c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/roadmap',
-                component: ComponentCreator('/roadmap', '8cb'),
+                path: '/es/roadmap',
+                component: ComponentCreator('/es/roadmap', '2c9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/security_and_compliances/regulations',
-                component: ComponentCreator('/security_and_compliances/regulations', '139'),
+                path: '/es/security_and_compliances/regulations',
+                component: ComponentCreator('/es/security_and_compliances/regulations', '37a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/security_and_compliances/smart_contracts',
-                component: ComponentCreator('/security_and_compliances/smart_contracts', '9cf'),
+                path: '/es/security_and_compliances/smart_contracts',
+                component: ComponentCreator('/es/security_and_compliances/smart_contracts', '6e9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/selection_process',
-                component: ComponentCreator('/selection_process', '603'),
+                path: '/es/selection_process',
+                component: ComponentCreator('/es/selection_process', '123'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/team_and_partners/members',
-                component: ComponentCreator('/team_and_partners/members', '1a9'),
+                path: '/es/team_and_partners/members',
+                component: ComponentCreator('/es/team_and_partners/members', 'f32'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/team_and_partners/partners',
-                component: ComponentCreator('/team_and_partners/partners', 'ab3'),
+                path: '/es/team_and_partners/partners',
+                component: ComponentCreator('/es/team_and_partners/partners', '4a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/',
-                component: ComponentCreator('/', 'fc9'),
+                path: '/es/',
+                component: ComponentCreator('/es/', 'b15'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
