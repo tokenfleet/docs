@@ -8,7 +8,7 @@
     "description": "El texto alternativo del logo en la barra de navegación"
   },
   "item.label.Docs": {
-    "message": "Documentos",
+    "message": "Documentación",
     "description": "Elemento de la barra de navegación con etiqueta Documentos"
   },
   "item.label.Blog": {
