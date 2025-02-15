@@ -18,7 +18,15 @@ const config: Config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-US',
+      },
+      es: {
+        htmlLang: 'es',
+      },
+    },
   },
 
   presets: [
@@ -61,6 +69,10 @@ const config: Config = {
           label: 'Docs',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
         {
           href: 'https://github.com/tokenfleet/docs',
           label: 'GitHub',

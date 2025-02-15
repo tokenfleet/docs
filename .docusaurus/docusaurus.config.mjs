@@ -16,10 +16,20 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "es"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "en": {
+        "htmlLang": "en-US",
+        "direction": "ltr"
+      },
+      "es": {
+        "htmlLang": "es",
+        "direction": "ltr"
+      }
+    },
+    "path": "i18n"
   },
   "presets": [
     [
@@ -66,6 +76,12 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
           "href": "https://github.com/tokenfleet/docs",
