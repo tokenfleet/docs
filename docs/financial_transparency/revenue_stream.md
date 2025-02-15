@@ -3,60 +3,99 @@ sidebar_position: 1
 title: Revenue Stream Breakdown
 ---
 
-# Revenue Stream Breakdown
+# Revenue Stream Breakdown  
 
-Token Fleet’s revenue streams are diversified to ensure stability and maximize profitability, helping you assess your investment’s potential.
+Token Fleet ensures **a clear, on-chain revenue structure**, allowing investors to **track and claim earnings transparently**. Our diversified income model provides **stable and consistent returns** while maintaining **long-term asset value**.  
 
-## Primary Sources of Revenue
+---
 
-### 1. **Rental Income**
+## **Primary Revenue Sources**  
 
-- **Daily Rentals**: Revenue from short-term rentals to tourists, business travelers, and local residents.
-- **Corporate Leasing**: Stable income from long-term rentals to businesses.
-- **Event Rentals**: Premium charges for special events like weddings, photoshoots, and media productions.
+### **1️⃣ Rental Income**  
 
-#### Highlights
+Our fleets generate revenue through **short-term and long-term rentals**, with earnings **distributed on-chain**.  
 
-- **High Demand**: Dubai’s thriving tourism and business market ensures a steady luxury rental demand.
-- **Dynamic Pricing**: Flexible pricing maximizes revenue during peak and off-peak seasons.
+- **Daily Rentals** – Bookings from **tourists, business travelers, and residents**.  
+- **Corporate Leasing** – Long-term rental contracts for **businesses and professionals**.  
+- **Event Rentals** – Premium pricing for **VIP events, photoshoots, and media productions**.  
 
-### 2. **Vehicle Sale Proceeds**
+💰 **Revenue Split (Per Rental Transaction)**  
+- **70%** – **Claimable by investors** immediately on the platform.  
+- **30%** – Allocated to **platform operations**:  
+  - **10%** – Maintenance reserve (routine servicing & minor repairs).  
+  - **20%** – Platform growth (marketing, operations, and expansion).  
 
-- **End-of-Term Sales**: Revenue from vehicle sales at the end of the investment period (typically four years).
-- **Appreciation Potential**: Certain luxury cars may appreciate due to limited production or high demand.
+📌 **Key Benefits:**  
+✔ **Fast Payouts** – Investors can **claim earnings after every rental**.  
+✔ **On-Chain Tracking** – Every transaction is verifiable on the blockchain.  
 
-#### Highlights
+---
 
-- **Strategic Sales**: Vehicles are sold when conditions are favorable to maximize sale proceeds.
-- **Professional Valuation**: Expert appraisals secure fair market value.
+### **2️⃣ Vehicle Sale Proceeds**  
 
-### 3. **Ancillary Services**
+At the **end of the investment period (typically 4 years)**, the fleet is **strategically sold** for maximum value.  
 
-- **Add-On Services**: Income from services such as chauffeur and concierge assistance.
-- **Advertising & Partnerships**: Revenue from collaborations with brands for promotions or placements.
+💰 **Revenue Split (Per Vehicle Sale)**  
+- **90%** – **Claimable by investors**.  
+- **10%** – Allocated to **platform operations**.  
 
-#### Highlights
+📌 **Key Benefits:**  
+✔ **Strategic Sales** – Vehicles are sold **under optimal market conditions**.  
+✔ **Fair Valuation** – Vehicles undergo **expert appraisal** to ensure maximum resale value.  
+✔ **Full Transparency** – Sales proceeds are **distributed and recorded on-chain**.  
 
-- **Enhanced Customer Experience**: Additional services improve satisfaction and generate extra income.
-- **Brand Synergy**: Luxury brand partnerships enhance market presence and open new revenue channels.
+---
 
-## Revenue Allocation
+### **3️⃣ Security Deposit for Major Expenses**  
 
-### **Investor Returns**
+🔹 **Purpose:** Covers unexpected **large expenses** (e.g., tire replacement, major repairs).  
+🔹 **Deposit Amount:** **10% of the car’s value**, collected at the **start of the investment period**.  
+🔹 **Usage:** If repairs are needed, the cost is **deducted from the deposit**, with:  
+  - **Receipts & documents** uploaded on the platform.  
+  - **Insurance covering eligible damages** directly to service providers.  
 
-- **Income Distributions**: Rental income is distributed within 1-3 days after each rental, proportional to token holdings.
-- **Sale Proceeds Distribution**: At term end, 90% of vehicle sale revenue is allocated to investors.
+🔹 **Refill Process:** Before splitting the next rental earnings, the deposit is **replenished first**.  
+🔹 **Return to Investors:** The **full deposit is refunded** at the **end of the investment period**.  
 
-### **Operational Costs**
+📌 **Key Benefits:**  
+✔ **Risk Management** – Investors are protected from unexpected costs.  
+✔ **Full Transparency** – Every charge is documented & accessible via the platform.  
+✔ **Insurance-Backed** – Reduces direct financial impact on investors.  
 
-- **Fleet Maintenance**: 10% of revenue reinvested to maintain premium condition.
-- **Expansion**: Funds allocated to acquire new vehicles and explore opportunities.
+---
 
-### **Company Earnings**
+## **On-Chain Financial Transparency**  
 
-- **Management Fees**: A 20% management fee supports operational costs and profits.
-- **Reinvestment**: Earnings reinvested into technological upgrades and platform improvements.
+🔍 **Every financial transaction is recorded on-chain**, ensuring:  
+✅ **Live access to revenue data & transactions**.  
+✅ **Real-time claimable earnings tracking**.  
+✅ **Visibility into maintenance expenses, rental documents, and vehicle history**.  
 
-## Sustainable Growth
+📑 **Investors Can Access**:  
+- **Rental earnings breakdown**.  
+- **Car sales revenue reports**.  
+- **Maintenance expenses (with receipts & invoices)**.  
+- **Vehicle registration & legal documents**.  
 
-Our diversified revenue and strategic fund allocation enable sustainable growth and profitability, benefiting our investors.
+🚀 **Everything is visible, verifiable, and accessible at any time!**  
+
+---
+
+## **Revenue Allocation Summary**  
+
+| **Revenue Type**         | **Investor Share** | **Platform Share** | **Additional Notes** |
+|-------------------------|-------------------|-------------------|---------------------|
+| **Rental Income**        | 70% (claimable)   | 30% (10% maintenance, 20% growth) | Paid out after every rental |
+| **Vehicle Sale Proceeds** | 90% (claimable)   | 10%               | Distributed at the end of the term |
+| **Security Deposit**      | Refundable       | Used for major expenses | Replenished before rental splits |
+
+---
+
+## **Sustainable & Transparent Revenue Model**  
+
+Token Fleet’s **on-chain financial structure** ensures:  
+✔ **Consistent earnings** from rentals.  
+✔ **Long-term value protection** through strategic vehicle sales.  
+✔ **Risk mitigation** via **security deposits & insurance coverage**.  
+
+🚀 **Invest today and start earning from real-world assets with complete financial transparency!**  

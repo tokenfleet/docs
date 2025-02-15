@@ -170,17 +170,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/-1b4": {
+  "/-32a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-7b1": {
+  "/-aef": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-0e5": {
+  "/-133": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/category/financial-transparency-07d": {
@@ -243,10 +243,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---how-it-works-rental-operations-647-877"
   },
-  "/how_it_works/renter_rewards-ec2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---how-it-works-renter-rewardsfb-3-714"
-  },
   "/legal/investment_risks-011": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---legal-investment-risks-3-d-4-80b"
@@ -262,10 +258,6 @@
   "/roadmap-8cb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---roadmap-0-df-c9a"
-  },
-  "/security_and_compliances/kyc_aml-683": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---security-and-compliances-kyc-amla-15-17f"
   },
   "/security_and_compliances/regulations-139": {
     "__comp": "__comp---theme-doc-item-178-a40",

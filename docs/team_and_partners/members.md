@@ -3,51 +3,111 @@ sidebar_position: 1
 title: Our Team
 ---
 
-# Our Team
+# Our Team  
 
-Meet the dedicated individuals behind Token Fleet. Our team brings expertise in blockchain, finance, automotive, and customer service, all focused on delivering the best experience for our investors and renters.
+At **Token Fleet**, we are a team of **visionaries, technologists, and industry experts** committed to **revolutionizing luxury car investments** through blockchain. Our combined expertise in **blockchain, finance, automotive, and operations** drives our mission to create a **transparent, profitable, and user-friendly platform** for investors.  
 
-## Leadership Team
+Meet the **team behind Token Fleet**:  
 
-### **Marcos Maceo**
+---
 
-- **Founder & Chief Executive Officer (CEO)**
-- **Background**: Over 5 years in fintech and blockchain technology.
-- **Role at Token Fleet**: Sets strategic direction and oversees company operations, driven by a vision to democratize luxury investments.
-- **Education**: Bachelor's in Computer Science, University of Habana, Cuba.
+## **🚀 Leadership Team**  
 
-### **Erika Caceres**
+### **Marcos Maceo**  
+**Founder & Chief Executive Officer (CEO)**  
 
-- **Chief Marketing Officer (CMO)**
-- **Background**: 3 years in brand marketing and public relations, with successful campaigns for various brands.
-- **Role at Token Fleet**: Leads marketing efforts, focusing on brand awareness and customer expansion.
-- **Education**: Bachelor's in Social Communication, University of Habana, Cuba.
+📌 **Background:**  
+- **5+ years in fintech and blockchain technology**.  
+- Experienced in **building decentralized systems and Web3 applications**.  
 
-## Technical Team
+📌 **Role at Token Fleet:**  
+- **Strategic leader** shaping the vision and long-term direction of Token Fleet.  
+- Ensures seamless **integration of blockchain technology** with real-world asset investments.  
+- Leads **partnerships, fundraising, and ecosystem growth**.  
 
-### **Alex Santos**
+📌 **Education:**  
+- **B.Sc. in Computer Science, University of Habana, Cuba**.  
 
-- **Lead Frontend Developer**
-- **Background**: 3 years in frontend development, with experience in senior roles at tech startups.
-- **Role at Token Fleet**: Develops and maintains the user interface, ensuring a seamless user experience.
-- **Education**: Bachelor's in Computer Science, University of Computer Science, Cuba.
+---
 
-### **Antonio García**
+### **Erika Caceres**  
+**Chief Marketing Officer (CMO)**  
 
-- **UI/UX Designer**
-- **Background**: Over 3 years in user-centric design, working with international clients on award-winning projects.
-- **Role at Token Fleet**: Designs the platform's aesthetics and usability, collaborating closely with developers.
-- **Education**: Bachelor's in Graphic Design, University of Habana, Cuba.
+📌 **Background:**  
+- **3+ years in brand marketing and public relations**.  
+- Led **successful campaigns for tech startups & luxury brands**.  
 
-## Operations Team
+📌 **Role at Token Fleet:**  
+- Develops **marketing strategies & brand awareness campaigns**.  
+- Manages **investor relations, content strategy, and community engagement**.  
+- Oversees **social media & user acquisition growth**.  
 
-### **Muhamed Sufyan**
+📌 **Education:**  
+- **B.A. in Social Communication, University of Habana, Cuba**.  
 
-- **Operations Manager**
-- **Background**: Extensive experience in fleet management and logistics.
-- **Role at Token Fleet**: Manages vehicle acquisition, maintenance, and rentals, optimizing operational efficiency.
-- **Education**: Degree in Business Management, Riphah International University, Pakistan.
+---
 
-## Our Commitment
+## **💻 Technical Team**  
 
-The Token Fleet team shares a passion for innovation, driving our mission to revolutionize luxury car investments. We are committed to delivering exceptional value and service to our community.
+### **Andy Ledesma**  
+**Lead Frontend Developer**  
+
+📌 **Background:**  
+- **3+ years in frontend development**, specializing in **React & Web3 UI/UX**.  
+- Worked in **senior roles at high-growth tech startups**.  
+
+📌 **Role at Token Fleet:**  
+- **Builds and maintains the platform interface** for a seamless investor experience.  
+- Implements **cutting-edge Web3 frontend architecture**.  
+- Ensures platform **scalability & performance optimization**.  
+
+📌 **Education:**  
+- **B.Sc. in Computer Science, University of Computer Science, Cuba**.  
+
+---
+
+### **Antonio Bermudez**  
+**UI/UX Designer**  
+
+📌 **Background:**  
+- **3+ years in user experience design**, working with **international clients**.  
+- Specializes in **Web3 design & blockchain user interfaces**.  
+
+📌 **Role at Token Fleet:**  
+- Designs **intuitive and aesthetically pleasing interfaces**.  
+- Collaborates with developers to **enhance user flow & platform usability**.  
+- Ensures a **consistent and visually engaging experience** across all devices.  
+
+📌 **Education:**  
+- **B.A. in Graphic Design, University of Habana, Cuba**.  
+
+---
+
+## **🚗 Operations Team**  
+
+### **Muhamed Sufyan**  
+**Operations Manager**  
+
+📌 **Background:**  
+- **Extensive experience in fleet management & logistics**.  
+- Expertise in **rental car operations, vehicle acquisition & maintenance**.  
+
+📌 **Role at Token Fleet:**  
+- Oversees **fleet acquisition, maintenance, and rentals** to **maximize profitability**.  
+- Ensures **operational efficiency & compliance with UAE regulations**.  
+- Manages **renter experience & service optimization**.  
+
+📌 **Education:**  
+- **B.A. in Business Management, Riphah International University, Pakistan**.  
+
+---
+
+## **🎯 Our Commitment**  
+
+At **Token Fleet**, we are driven by **innovation, transparency, and performance**. Our goal is to **democratize luxury car investments** by combining **blockchain efficiency with real-world asset management**.  
+
+We are committed to **building a trusted, profitable, and scalable platform** for investors worldwide.  
+
+🚀 **Join us as we reshape the future of asset-backed blockchain investments!**  
+
+---

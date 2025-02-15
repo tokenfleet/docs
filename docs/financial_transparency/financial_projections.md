@@ -3,38 +3,63 @@ sidebar_position: 3
 title: Financial Projections
 ---
 
-# Financial Projections
+# Financial Projections  
 
-Based on thorough market research, Token Fleet’s financial projections provide insights into potential returns and growth.
+Token Fleet’s **financial model is designed to generate stable, high-yield returns** through diversified revenue streams, efficient operations, and strategic vehicle sales. These projections offer a realistic estimate of potential **earnings, ROI, and risk factors**.
 
-## Return on Investment (ROI)
+---
 
-- **4-Year ROI**: 140% - 160% total return on initial investment.
-- **Annualized ROI**: Approximately 35% - 40% per year.
+## **Projected Return on Investment (ROI)**  
 
-#### Example Calculation
+Our **standard investment period** is **4 years**, balancing **rental income and resale value** to maximize returns.  
 
-- **Initial Investment**: $10,000
-- **4-Year Return**: $14,000 - $16,000
-- **Monthly Income**: Regular rental income distributions.
-- **Selling Price**: Expected 50%-60% of the initial purchase cost at sale.
+💰 **4-Year ROI**: **140% - 160%** total return on initial investment.  
+📈 **Annualized ROI**: **35% - 40%** per year.  
 
-## Sensitivity Analysis
+### **Example Calculation**  
 
-- **Occupancy Rate Variations**:
-  - A 5% decrease in occupancy could reduce net profits by 10%.
-  - A 5% increase could raise net profits by 10%.
+| **Scenario**       | **Conservative Estimate** | **Optimistic Estimate** |
+|--------------------|-------------------------|-------------------------|
+| **Initial Investment** | $10,000                 | $10,000                 |
+| **Total 4-Year Return** | $14,000                 | $16,000                 |
+| **Monthly Income** | Rental income payouts | Rental income payouts |
+| **Vehicle Sale Proceeds** | 50%-60% of initial purchase cost | 55%-65% of initial purchase cost |
 
-- **Market Fluctuations**:
-  - Economic downturns may affect rental demand and vehicle resale.
-  - Diversified revenue streams help mitigate such risks.
+📌 **Key Takeaways:**  
+✔ **Consistent cash flow** from rental income.  
+✔ **Long-term value appreciation** through strategic car sales.  
+✔ **Transparent on-chain tracking** of all revenue streams.  
 
-## Assumptions and Considerations
+---
 
-- **Stable Market Conditions**: Projections assume consistent economic growth and tourism.
-- **Regulatory Stability**: No major changes affecting operations.
-- **Moderate Competition**: Assumes a manageable competitive landscape.
+## **Sensitivity Analysis: Risk & Market Impact**  
 
-## Disclaimer
+Our financial projections account for **market variability** to ensure stability under different conditions.  
 
-These projections are estimates based on current data and subject to change. Consider them as part of a comprehensive investment analysis.
+📊 **Occupancy Rate Impact**  
+- **5% decrease** → Potential **10% reduction** in net profits.  
+- **5% increase** → Potential **10% increase** in net profits.  
+
+💰 **Market Fluctuations**  
+- **Economic downturns** may affect rental demand and resale values.  
+- **Diversified revenue streams** (corporate leasing, events) **mitigate risks**.  
+- **Luxury market stability** ensures **consistent long-term demand**.  
+
+---
+
+## **Key Assumptions & Considerations**  
+
+✅ **Stable Market Conditions** – Assumes steady economic growth and **continued tourism demand**.  
+✅ **Regulatory Compliance** – No anticipated legal changes affecting operations.  
+✅ **Moderate Competition** – Based on **Dubai’s strong demand for rental vehicles**.  
+
+📌 **On-Chain Financial Transparency**  
+🔍 Investors can track **all rental income, maintenance expenses, vehicle resale data, and profit distributions on-chain**.  
+
+---
+
+## **Disclaimer**  
+
+These projections are **estimates based on current market trends** and are subject to change. Investors should consider them as part of a **comprehensive investment strategy**, factoring in **market risks, vehicle performance, and economic shifts**.  
+
+🚀 **Token Fleet provides real-world asset investment with full financial transparency.**  

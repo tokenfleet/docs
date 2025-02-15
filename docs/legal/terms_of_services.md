@@ -3,56 +3,163 @@ sidebar_position: 1
 title: Terms of Service
 ---
 
-# Terms of Service
+# Terms of Service  
 
-Welcome to Token Fleet. By accessing or using our platform, you agree to be bound by these Terms of Service ("Terms") and our Privacy Policy. If you do not agree, please do not use our platform.
+Welcome to Token Fleet. By accessing or using our platform, you agree to be bound by these Terms of Service ("Terms") and our Privacy Policy. If you do not agree, please do not use our platform.  
 
-## 1. Eligibility and Account Registration
+Token Fleet is operated by **Reliable Route Car Rentals LLC** ("Company", "we", "us", "our"), a legally registered business in Dubai, UAE.
 
-1.1. You must be at least 18 years old and legally able to enter a binding contract.
+---
 
-1.2. Accurate and complete information must be provided when registering. You are responsible for maintaining your account’s confidentiality.
+## **1. Acceptance of Terms**  
 
-## 2. Tokenized Investments
+By using the Token Fleet platform ("Platform"), you acknowledge and agree to these Terms, which constitute a **legally binding agreement** between you ("User", "Investor") and Token Fleet.  
 
-2.1. Token Fleet offers tokenized investments in luxury cars. Purchasing tokens grants a fractional ownership interest in the asset.
+---
 
-2.2. Investment value may fluctuate with market conditions, and there is no guarantee of profit or protection against loss.
+## **2. Definitions**  
 
-## 3. Rental Income Distribution
+- **"Platform"** – The Token Fleet investment platform.  
+- **"Investment Share"** – Fractional ownership stake in a fleet of rental vehicles.  
+- **"Investment Period"** – The standard 4-year term of investment.  
+- **"Rental Income"** – Revenue generated from fleet rentals.  
+- **"Smart Contract"** – Blockchain-based contract governing investments and profit distribution.  
 
-3.1. Token holders are entitled to a share of rental income proportional to their ownership.
+---
 
-3.2. Income is distributed regularly, as specified in the investment documentation.
+## **3. Eligibility & Account Registration**  
 
-## 4. Platform Fees
+To use the Platform and invest, you must:  
 
-4.1. Platform fees apply for services and are outlined in the investment documentation; these may be subject to change.
+- Be **at least 18 years old** and legally able to enter a contract.  
+- Provide **accurate and complete information** during registration.  
+- Comply with all **applicable laws and regulations** in your jurisdiction.  
 
-4.2. By using our platform, you agree to pay all applicable fees.
+You are responsible for maintaining **confidentiality** of your account information.  
 
-## 5. User Responsibilities and Prohibited Activities
+---
 
-5.1. You are responsible for interactions on the platform and must comply with laws and regulations.
+## **4. Investment Terms**  
 
-5.2. Prohibited activities include fraud, illegal activities, or abuse, such as money laundering or market manipulation.
+### **4.1 Investment Structure**  
+- Users can purchase **fractional ownership in vehicle fleets** through the Platform.  
+- The **minimum investment amount** is **100 USDC**.  
 
-## 6. Intellectual Property
+### **4.2 Investment Period & Exit Strategy**  
+- Standard **Investment Period: 4 years** from vehicle acquisition.  
+- At the end of the term, vehicles are **sold**, and proceeds are **distributed**.  
+- Investors receive **90% of the vehicle sale price**, with **10% allocated to platform operations**.  
 
-6.1. Token Fleet retains intellectual property rights over the platform and its content. No part may be copied, modified, or distributed without written consent.
+📌 **Note:** Early exit options will be **available through a Liquidity Marketplace** (coming soon).  
 
-## 7. Limitation of Liability
+---
 
-7.1. Token Fleet is not liable for any damages or losses, including investment losses, system failures, or unauthorized account access.
+## **5. Fees and Payments**  
 
-## 8. Dispute Resolution
+### **5.1 Initial Setup Fee (10%)**  
+A **one-time company fee of 10%** is added to each fleet investment. This covers:  
+- Platform operations & development.  
+- Smart contract deployment & management.  
+- Business & legal administration.  
 
-8.1. Disputes will be resolved through arbitration under Dubai Law.
+### **5.2 Security Deposit (10%)**  
+- A **10% security deposit** of the investment amount is held **to cover major expenses**.  
+- This **deposit is fully refundable** at the end of the Investment Period, **minus any unreplenished expenses**.  
+- If used, the deposit **must be replenished from rental income before further profit distribution**.  
 
-## 9. Amendments and Termination
+### **5.3 Fixed Charges**  
+Additional costs may include:  
+- **Insurance coverage** for vehicles.  
+- **GPS tracking & vehicle registration** fees.  
+- **Initial maintenance package** for fleet upkeep.  
 
-9.1. Token Fleet reserves the right to amend these Terms. Material changes will be communicated via email or a platform notice.
+📌 **All financial transactions are recorded on-chain for full transparency.**  
 
-9.2. We may terminate or suspend platform access if we suspect a breach of these Terms.
+---
 
-By using Token Fleet, you acknowledge that you have read, understood, and agree to these Terms of Service. For any questions, contact our support team.
+## **6. Rental Income Distribution**  
+
+- **70% of rental income** is claimable by investors.  
+- **30% is allocated to platform operations**:  
+  - **10%** for fleet maintenance.  
+  - **20%** for platform growth & expansion.  
+- Rental profits are **distributed within 1-3 days after each rental**.  
+
+📌 **Investors can track earnings, expenses, and distributions in real-time via the dashboard.**  
+
+---
+
+## **7. Vehicle Management & Operational Control**  
+
+- The **Company maintains full operational control** of all fleet vehicles.  
+- Vehicles are **registered under Reliable Route Car Rentals LLC** for legal compliance.  
+- The Company is responsible for:  
+  - **Rental operations & customer management**.  
+  - **Insurance & regulatory compliance**.  
+  - **Fleet maintenance & upkeep**.  
+
+---
+
+## **8. User Responsibilities & Prohibited Activities**  
+
+By using the Platform, you agree to:  
+✅ **Follow all applicable laws** and regulations.  
+✅ **Provide truthful, accurate information** when registering or transacting.  
+
+🚨 **Prohibited activities include:**  
+❌ Fraud, money laundering, or market manipulation.  
+❌ Unauthorized use of the Platform or Smart Contracts.  
+❌ Engaging in any **illegal activities** or using the Platform for illicit purposes.  
+
+📌 Violations may result in **account termination and legal action**.  
+
+---
+
+## **9. Risks and Disclaimers**  
+
+- **Investment involves risks**, including **potential loss of capital**.  
+- The Company **does not guarantee profits or rental income stability**.  
+- Market conditions may impact **vehicle rental demand and resale value**.  
+- **Past performance is not indicative of future results**.  
+
+📌 **Investors should conduct their own research before making financial decisions.**  
+
+---
+
+## **10. Amendments & Termination**  
+
+### **10.1 Changes to Terms**  
+- We **may update these Terms** periodically.  
+- Material changes will be **communicated via email or platform notification**.  
+
+### **10.2 Account Termination**  
+- We **reserve the right to suspend or terminate** user access for violations of these Terms.  
+- Users may **request account closure** at any time, subject to investment withdrawal policies.  
+
+---
+
+## **11. Dispute Resolution & Governing Law**  
+
+- All disputes shall be **resolved under the laws of Dubai, UAE**.  
+- Any legal action shall be **submitted to the courts of Dubai**.  
+- Alternative dispute resolution (ADR) or **arbitration** may be used where applicable.  
+
+---
+
+## **12. Contact Information**  
+
+For inquiries regarding these Terms, please contact:  
+
+📌 **Reliable Route Car Rentals LLC**  
+📍 **Rasis Business Center, 4th Floor, Office 75**  
+📍 **Al Barsha, Dubai, UAE**  
+📞 **Phone/WhatsApp:** +971521703229  
+📧 **Email:** info@tokenfleet.io  
+
+---
+
+## **📌 Final Acknowledgment**  
+
+By using the Token Fleet platform, you **acknowledge that you have read, understood, and agreed to these Terms of Service**.  
+
+📅 **Last Updated: February 2025**  

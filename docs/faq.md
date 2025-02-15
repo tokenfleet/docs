@@ -4,88 +4,168 @@ title: Frequently Asked Questions (FAQ)
 slug: /faq
 ---
 
-# Frequently Asked Questions (FAQ)
+# Frequently Asked Questions (FAQ)  
 
-Welcome to Token Fleet’s FAQ page! Here, we answer common questions about our platform, services, and investment process. If you have additional questions, feel free to contact our support team through the [Contact and Support](./contact_us) page.
+Welcome to Token Fleet’s FAQ page! Here, we address **the most common questions** about our **investment process, security, compliance, and financial returns**.  
 
-## General Questions
-
-### What is Token Fleet?
-
-Token Fleet is a platform that offers tokenized investments in luxury cars, allowing investors to own shares of high-demand vehicles and receive rental income from them. By leveraging blockchain technology, we provide secure and transparent access to the luxury car rental market.
-
-### Who can invest with Token Fleet?
-
-Anyone over the age of 18 with the legal capacity to enter a contract can invest in Token Fleet, subject to KYC/AML verification. Our platform is open to users worldwide, except in restricted jurisdictions.
-
-## Investment Questions
-
-### How do I start investing with Token Fleet?
-
-To start investing:
-1. **Register** on our platform and complete the KYC verification process.
-2. **Browse** available car listings.
-3. **Purchase tokens** representing fractional ownership of your chosen vehicles.
-
-### What returns can I expect from my investment?
-
-Investors receive a share of rental income based on their token holdings. Returns vary depending on the demand for each vehicle and market conditions. For details on projected returns, see our [Financial Projections](./financial_transparency/financial_projections) page.
-
-### Are my investments secure?
-
-Yes, Token Fleet employs strict KYC/AML procedures, smart contract security measures, and regular audits to ensure investment security. Our smart contracts are tested and audited by reputable third-party firms.
-
-## Rental Income and Profit Distribution
-
-### How is rental income distributed?
-
-Rental income is distributed proportionally to token holders based on their ownership share. Distributions are made regularly, typically within 1-3 days after each rental transaction.
-
-### What fees does Token Fleet charge?
-
-Token Fleet charges platform fees outlined in the investment documentation. Fees cover services such as platform maintenance, transaction processing, and security measures. Refer to the [Cost Breakdown and Revenue Sharing](./financial_transparency/cost_breakdown) page for more details.
-
-### Can I sell my tokens before the end of the investment period?
-
-Yes, Token Fleet plans to launch a marketplace where you can buy and sell tokens. This marketplace will provide liquidity for investors wishing to adjust their portfolios.
-
-## KYC/AML and Compliance
-
-### Why do I need to complete KYC verification?
-
-KYC verification is mandatory to comply with Anti-Money Laundering (AML) regulations and ensure the security of our platform. We work with [Sumsub](https://sumsub.com/) to streamline the verification process.
-
-### How long does the KYC process take?
-
-The KYC process typically takes 24-48 hours, depending on the accuracy of submitted information. You will receive a confirmation email once verification is complete.
-
-## Technical and Security Questions
-
-### How does Token Fleet ensure the security of smart contracts?
-
-Our smart contracts undergo rigorous testing and independent third-party audits. We implement secure coding practices, real-time monitoring, and emergency pause mechanisms to maintain the integrity of our platform. For more details, visit our [Smart Contract Security Measures](./security_and_compliances/smart_contracts).
-
-### What should I do if I notice suspicious activity on my account?
-
-If you suspect any unauthorized activity on your account, contact our support team immediately. We also recommend enabling two-factor authentication and following our security best practices to protect your account.
-
-## Support and Contact Information
-
-### How can I reach Token Fleet’s support team?
-
-You can reach our support team through:
-- **Email**: [info@tokenfleet.io](mailto:info@tokenfleet.io)
-- **Live Chat**: Available 24/7 [here](https://tawk.to/tokenfleet).
-- **Telegram**: [https://t.me/tokenfleet_io](https://t.me/tokenfleet_io)
-
-### How do I stay updated on Token Fleet’s news and announcements?
-
-Follow us on social media to stay informed:
-- [Twitter](https://twitter.com/tokenfleet_io)
-- [LinkedIn](https://www.linkedin.com/company/tokenfleet)
-- [Instagram](https://www.instagram.com/tokenfleet)
-- [YouTube](https://www.youtube.com/channel/UCOjJJAKCuCJgOmKHHRh_4ZQ)
+If you don’t find what you’re looking for, reach out via our [Contact and Support](./contact_us) page.  
 
 ---
 
-We hope this FAQ addresses your questions about Token Fleet. For further inquiries or feedback, please contact us. Thank you for choosing Token Fleet for your tokenized investment journey!
+## **📌 General Questions**  
+
+### **What is Token Fleet?**  
+Token Fleet is a **blockchain-powered investment platform** that allows users to **own fractional shares in luxury car fleets**. Investors earn **passive income** from rentals and receive a **proportionate share of the sale price** when vehicles are sold.  
+
+### **How does Token Fleet work?**  
+1. **Investors purchase a share in a fleet of rental cars.**  
+2. **The cars generate rental income**, which is **distributed automatically on-chain**.  
+3. **After the investment period (typically 4 years), the fleet is sold**, and **investors receive a share of the proceeds**.  
+
+📌 **Investments are fully transparent**, with all transactions **recorded on-chain** and backed by **legal contracts**.  
+
+### **Who can invest in Token Fleet?**  
+✅ Anyone **18 years or older** with the legal capacity to enter a contract.  
+✅ Investors **must complete KYC verification** to comply with regulations.  
+🚫 Restricted jurisdictions may apply due to local financial laws.  
+
+---
+
+## **💰 Investment & Returns**  
+
+### **How do I start investing?**  
+1. **Sign up** on the Token Fleet platform.  
+2. **Complete KYC verification.**  
+3. **Browse available investment fleets.**  
+4. **Purchase shares in a fleet.**  
+5. **Earn passive income from rental earnings.**  
+
+📌 **Investments are recorded on-chain for full transparency.**  
+
+### **What returns can I expect?**  
+- **Rental income**: Investors receive **70% of rental profits**, distributed **on-chain**.  
+- **Vehicle sale**: After **4 years**, cars are sold, and **90% of the sale price is distributed** to investors.  
+- **Estimated ROI**: Projected **30-40% annualized return**, but subject to market conditions.  
+
+📌 **Returns depend on rental demand, car utilization, and market resale value.**  
+
+### **How often are rental earnings distributed?**  
+Rental income is **available to claim within 1-3 days after each rental**.  
+
+### **What happens at the end of the investment period?**  
+- The fleet is **sold at market value**.  
+- **90% of sale proceeds are distributed** to investors.  
+- The **10% security deposit is returned** (less any unreplenished maintenance expenses).  
+
+📌 **Full reports on earnings and transactions are available in your investor dashboard.**  
+
+---
+
+## **📜 Legal & Compliance**  
+
+### **Is Token Fleet a regulated investment platform?**  
+We **operate in compliance with UAE regulations** and follow **global best practices** for investment security, including:  
+✅ **KYC & AML compliance**  
+✅ **Transparent on-chain financial tracking**  
+✅ **Legally binding investment contracts**  
+
+### **Why do I need to complete KYC verification?**  
+To **comply with anti-money laundering (AML) laws** and **protect investor security**. KYC ensures that **only verified users** participate in Token Fleet investments.  
+
+📌 **Your personal data is securely stored and never shared with third parties.**  
+
+### **How long does KYC verification take?**  
+⏳ Typically **2-5 minutes**, depending on document verification.  
+
+---
+
+## **🔒 Security & Technology**  
+
+### **How does Token Fleet ensure security?**  
+1. **All transactions are on-chain**, ensuring full transparency.  
+2. **Smart contracts are audited** to prevent vulnerabilities.  
+3. **Emergency security measures** allow us to pause operations in case of threats.  
+
+### **Can my funds or shares be hacked?**  
+No. **Your shares are stored on-chain**, secured through **blockchain technology and multi-signature security protocols**.  
+
+📌 **Investors retain full ownership of their shares and rental earnings.**  
+
+### **What should I do if I suspect unauthorized account activity?**  
+🚨 Contact support immediately at **[security@tokenfleet.io](mailto:security@tokenfleet.io)**.  
+📌 Enable **two-factor authentication (2FA)** and ensure your wallet security.  
+
+---
+
+## **🔄 Liquidity & Selling Shares**  
+
+### **Can I sell my shares before the 4-year term ends?**  
+Yes! We are building a **liquidity marketplace**, allowing investors to **sell shares early to other users**.  
+
+📌 **The marketplace will provide liquidity while ensuring fair price discovery.**  
+
+### **Is there an early exit fee?**  
+There are **no penalties**, but **sale prices depend on demand** in the marketplace.  
+
+---
+
+## **🚗 Fleet Management & Rental Operations**  
+
+### **How are the cars managed?**  
+- **Token Fleet handles fleet operations, insurance, and maintenance**.  
+- Vehicles are rented via **Reliable Route**, our car rental partner.  
+
+### **What happens if a car is damaged?**  
+- **Insurance covers major repairs.**  
+- **For wear & tear (tires, brakes, etc.), the security deposit is used**.  
+- The **security deposit is replenished** from rental earnings before further distributions.  
+
+📌 **At the end of the investment period, any remaining deposit is refunded.**  
+
+### **How are vehicles rented out?**  
+- Vehicles are listed on **multiple rental platforms** (including Token Fleet’s own system).  
+- **Corporate leasing, tourist rentals, and event bookings** drive rental demand.  
+- **Peak pricing strategies maximize investor returns.**  
+
+📌 **A full rental history is available on the investor dashboard.**  
+
+---
+
+## **💵 Fees & Revenue Sharing**  
+
+### **How is revenue distributed?**  
+- **70% of rental income** goes to investors.  
+- **30% is retained by Token Fleet** (10% for maintenance, 20% for platform growth).  
+- **90% of the final sale price** is distributed to investors.  
+
+📌 **Full transparency—every transaction is recorded on-chain.**  
+
+### **What are the platform fees?**  
+- **10% security deposit** (refunded at the end, minus unreplenished costs).  
+- **One-time 10% company fee** (covers operations, legal compliance, and technology).  
+
+📌 **No hidden fees—everything is disclosed upfront.**  
+
+---
+
+## **📢 Community & Support**  
+
+### **How can I contact Token Fleet’s support team?**  
+📩 **Email:** [info@tokenfleet.io](mailto:info@tokenfleet.io)  
+💬 **Live Chat:** [24/7 support here](https://tawk.to/tokenfleet)  
+💬 **Telegram:** [Join our community](https://t.me/tokenfleet_io)  
+
+### **Where can I follow Token Fleet updates?**  
+- 🐦 **Twitter (X):** [@tokenfleet_io](https://twitter.com/tokenfleet_io)  
+- 📘 **Facebook:** [Token Fleet](https://www.facebook.com/profile.php?id=61568084092915)  
+- 📸 **Instagram:** [@tokenfleet](https://www.instagram.com/tokenfleet)  
+- 🎥 **YouTube:** [Token Fleet Channel](https://www.youtube.com/channel/UCOjJJAKCuCJgOmKHHRh_4ZQ)  
+
+📌 **Stay updated and engage with fellow investors!**  
+
+---
+
+🚀 **We hope this FAQ answers your questions about Token Fleet!**  
+For additional inquiries, please visit our **[Contact and Support](./contact_us) page**.  
+
+Thank you for choosing Token Fleet for **secure, transparent, and profitable car investments!**  

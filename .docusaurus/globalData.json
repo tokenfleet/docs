@@ -61,11 +61,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "how_it_works/renter_rewards",
-              "path": "/how_it_works/renter_rewards",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro",
               "path": "/",
               "sidebar": "tutorialSidebar"
@@ -88,11 +83,6 @@
             {
               "id": "roadmap",
               "path": "/roadmap",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "security_and_compliances/kyc_aml",
-              "path": "/security_and_compliances/kyc_aml",
               "sidebar": "tutorialSidebar"
             },
             {

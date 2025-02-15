@@ -3,46 +3,116 @@ sidebar_position: 2
 title: Privacy Policy
 ---
 
-# Privacy Policy
+# Privacy Policy  
 
-At Token Fleet, we are committed to safeguarding your personal information. This Privacy Policy explains how we collect, use, and disclose your data.
+Token Fleet, operated by **Reliable Route Car Rentals LLC** ("Company", "we", "our", "us"), is committed to **protecting your privacy**. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use our platform ("Platform").
 
-## 1. Information We Collect
+By using Token Fleet, you **agree to this Privacy Policy**. If you do not agree, please **do not use our services**.
 
-1.1. **Personal Information**: We collect your address during account registration.
+---
 
-1.2. **Identity Verification**: To comply with KYC/AML, additional information like government-issued IDs and email may be required.
+## **1. Information We Collect**  
 
-1.3. **Transaction Information**: We collect data on your investment transactions, including amounts, dates, and times.
+We collect the following categories of information:
 
-## 2. Use of Information
+### **1.1 Personal Information**  
+- **Name & contact details** (email, phone number).  
+- **Date of birth & nationality** (for verification).  
+- **Government-issued identification** (passport, ID, or driver’s license).  
+- **Blockchain wallet address** (for transactions).  
+- **Investment history & preferences**.  
+- **Banking & payment information** (where applicable).  
 
-2.1. We use personal information to provide services, process investments, distribute rental income, and manage accounts.
+### **1.2 Technical Information**  
+- **IP address & device details**.  
+- **Browser type & version**.  
+- **Usage data & analytics**.  
+- **Cookies & tracking technologies**.  
 
-2.2. Information may be used to comply with legal obligations, including KYC/AML and tax reporting.
+📌 **All collected data is stored securely and used strictly for operational and compliance purposes.**  
 
-2.3. Aggregate, anonymized data may be used for research to improve our platform.
+---
 
-## 3. Disclosure of Information
+## **2. How We Use Your Information**  
 
-3.1. We may share data with third-party providers for platform operations and service delivery.
+We use your data for the following purposes:  
 
-3.2. Disclosure may occur if required by law or to protect our rights.
+✅ **Investment Processing** – To facilitate transactions, purchases, and portfolio tracking.  
+✅ **Identity Verification** – To comply with **KYC/AML regulations** and prevent fraud.  
+✅ **Communication** – To send updates on **investments, earnings, and platform changes**.  
+✅ **Customer Support** – To assist with account issues, payments, or inquiries.  
+✅ **Regulatory Compliance** – To meet **legal and tax obligations**.  
+✅ **Platform Improvements** – To optimize user experience and **enhance security**.  
 
-## 4. Data Security
+📌 **Your data is NEVER sold or shared with third parties for marketing purposes.**  
 
-4.1. We implement security measures to protect against unauthorized access, alteration, or disclosure.
+---
 
-4.2. However, internet transmission and storage are not 100% secure, and absolute security cannot be guaranteed.
+## **3. Information Sharing & Disclosure**  
 
-## 5. Your Rights
+We **do not sell** your personal information. However, we may share data with:  
 
-5.1. You may access, update, or delete your data by contacting our support team.
+📌 **Service Providers** – Payment processors, KYC/AML verification partners, and customer support systems.  
+📌 **Regulatory Authorities** – If required by law (e.g., tax agencies, financial regulators).  
+📌 **Professional Advisors** – Legal, accounting, or auditing firms for compliance purposes.  
 
-5.2. If you are in the EEA, additional rights under GDPR may apply.
+---
 
-## 6. Changes to this Privacy Policy
+## **4. Data Security & Protection**  
 
-6.1. We may update this Privacy Policy periodically. Material changes will be communicated via email or a platform notice.
+🔒 **How we protect your information:**  
+- **Encryption** – Secure encryption protocols for all transactions.  
+- **Access Control** – Strict **user authentication** and verification procedures.  
+- **On-Chain Transparency** – Investment data is securely recorded on the blockchain.  
 
-By using Token Fleet, you consent to this Privacy Policy. For questions or concerns, contact our support team.
+⚠ **Disclaimer:** While we take all reasonable measures to protect your data, no internet-based platform is **100% secure**. Always use strong passwords and enable **two-factor authentication (2FA)** when possible.  
+
+---
+
+## **5. Your Rights & Data Control**  
+
+You have the right to:  
+
+✅ **Access your data** – Request a copy of your stored personal information.  
+✅ **Update your information** – Correct or modify your account details.  
+✅ **Request data deletion** – Close your account and remove your personal data (subject to legal obligations).  
+✅ **Object to processing** – Limit how we use your information (for non-essential services).  
+✅ **Data portability** – Request a transfer of your investment data.  
+
+📌 **To exercise your rights, contact us at info@tokenfleet.io**.  
+
+---
+
+## **6. Cookies & Tracking Technologies**  
+
+🍪 We use **cookies and similar tracking tools** to:  
+- Enhance platform usability.  
+- Analyze **user behavior & trends**.  
+- Improve **site security & fraud prevention**.  
+
+🔧 **Managing Cookies:**  
+You can adjust your browser settings to **disable or delete cookies** at any time. However, this may affect certain Platform functionalities.  
+
+---
+
+## **7. Changes to Privacy Policy**  
+
+We may **update this Privacy Policy** periodically. Any **material changes** will be **notified via email or platform announcement**.  
+
+📌 **Last updated: February 2025**  
+
+---
+
+## **8. Contact Information**  
+
+For privacy-related inquiries, please contact:  
+
+📌 **Reliable Route Car Rentals LLC**  
+📍 **Rasis Business Center, 4th Floor, Office 75**  
+📍 **Al Barsha, Dubai, UAE**  
+📞 **Phone/WhatsApp:** +971521703229  
+📧 **Email:** info@tokenfleet.io  
+
+---
+
+By using Token Fleet, you **agree to this Privacy Policy** and acknowledge the collection and use of your data as described. 🚀  

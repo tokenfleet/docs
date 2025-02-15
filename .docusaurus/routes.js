@@ -94,15 +94,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '1b4'),
+    component: ComponentCreator('/', '32a'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '7b1'),
+        component: ComponentCreator('/', 'aef'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '0e5'),
+            component: ComponentCreator('/', '133'),
             routes: [
               {
                 path: '/category/financial-transparency',
@@ -195,12 +195,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/how_it_works/renter_rewards',
-                component: ComponentCreator('/how_it_works/renter_rewards', 'ec2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/legal/investment_risks',
                 component: ComponentCreator('/legal/investment_risks', '011'),
                 exact: true,
@@ -221,12 +215,6 @@ export default [
               {
                 path: '/roadmap',
                 component: ComponentCreator('/roadmap', '8cb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/security_and_compliances/kyc_aml',
-                component: ComponentCreator('/security_and_compliances/kyc_aml', '683'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -142,7 +142,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 Token Fleet, by Reliable Route."
+      "copyright": "Copyright © 2025 Token Fleet, by Reliable Route."
     },
     "prism": {
       "theme": {
@@ -373,6 +373,14 @@ export default {
   },
   "baseUrlIssueBanner": true,
   "future": {
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false
+    },
     "experimental_storage": {
       "type": "localStorage",
       "namespace": false
