@@ -1,133 +1,135 @@
 ---
 sidebar_position: 5
-title: Roadmap
+title: Hoja de Ruta
 ---
 
-# Roadmap  
+# Hoja de Ruta  
 
-Token Fleet is **building the future of decentralized fleet ownership**, with a structured roadmap focused on **launch, growth, and expansion**. Our mission is to **continuously enhance our platform, expand our fleet, and maximize investor returns** while maintaining **on-chain transparency and security**.
-
----
-
-## **🚀 Q1 2025 – Platform Launch & First Fleets**  
-
-✅ **Official Platform Launch on Base**  
-- Secure and compliant **investor onboarding**.  
-- Full **KYC verification & legal contract issuance**.  
-- **Smart contract deployment** to handle investments and revenue distribution.  
-
-✅ **Investment Dashboard & First Fleets**  
-- **Live investor dashboard** to track fleet earnings, expenses, and portfolio performance.  
-- **Launch of first tokenized rental fleets in Dubai**.  
-- **Real-time on-chain reporting** for full transparency.  
-
-✅ **Marketing & Investor Growth**  
-- Targeted **social media & digital marketing campaigns**.  
-- **Early investor incentives & referral program** launch (3-5% commission).  
-- Community-building efforts to drive **user acquisition and awareness**.  
+Token Fleet está **construyendo el futuro de la propiedad descentralizada de flotas**, con una hoja de ruta estructurada centrada en **lanzamiento, crecimiento y expansión**. Nuestra misión es **mejorar continuamente nuestra plataforma, expandir nuestra flota y maximizar los rendimientos de los inversores** mientras mantenemos **transparencia y seguridad en la cadena**.  
 
 ---
 
-## **🌍 Q2 2025 – Expansion & Liquidity Marketplace Development**  
+## **🚀 Q1 2025 – Lanzamiento de la Plataforma y Primeras Flotas**  
 
-📌 **Fleet Expansion & Scaling Operations**  
-- Adding **more rental fleets** to meet increasing demand.  
-- **Optimization of vehicle selection process** based on data & market trends.  
+✅ **Lanzamiento Oficial de la Plataforma en Base**  
+- **Incorporación de inversores** segura y conforme.  
+- **Verificación completa de KYC y emisión de contratos legales**.  
+- **Despliegue de contratos inteligentes** para manejar inversiones y distribución de ingresos.  
 
-📌 **Liquidity Marketplace Development (P2P Trading)**  
-- **Start development** of **secondary market for fleet shares**, allowing investors to sell their ownership stakes.  
-- Smart contract updates to **enable seamless peer-to-peer transfers**.  
+✅ **Panel de Inversión y Primeras Flotas**  
+- **Panel de inversores en vivo** para rastrear ganancias de flota, gastos y rendimiento de la cartera.  
+- **Lanzamiento de las primeras flotas de alquiler tokenizadas en Dubái**.  
+- **Informes en tiempo real en la cadena** para total transparencia.  
 
-📌 **Investor Reporting & Platform Enhancements**  
-- **Improved analytics dashboard** with real-time fleet tracking.  
-- **Automated revenue reinvestment options** for investors.  
-
----
-
-## **♻️ Q3 2025 – Eco-Friendly Initiatives & Strategic Partnerships**  
-
-🌱 **Sustainable Fleet Growth**  
-- Integration of **hybrid & electric vehicles (EVs)** to promote sustainability.  
-- **Partnerships with EV charging providers** to support eco-friendly rentals.  
-- **Incentives for investors choosing green fleets**.  
-
-🤝 **Strategic Business Partnerships**  
-- Collaboration with **crypto companies, DeFi protocols, and travel agencies**.  
-- Expansion of **rental partnerships with hotels, event organizers, and corporations**.  
-- **Joint marketing efforts** with industry leaders.  
-
-📈 **User Experience & Automation**  
-- **Automated reinvestment & staking options**.  
-- AI-driven **pricing optimization for rentals** to maximize revenue.  
-- **Better mobile experience & UI improvements**.  
+✅ **Marketing y Crecimiento de Inversores**  
+- **Campañas de marketing digital y en redes sociales** dirigidas.  
+- **Lanzamiento de incentivos para primeros inversores y programa de referidos** (3-5% de comisión).  
+- Esfuerzos de construcción comunitaria para impulsar **adquisición de usuarios y concienciación**.  
 
 ---
 
-## **🏙 Q4 2025 – Geographic & Market Expansion**  
+## **🌍 Q2 2025 – Expansión y Desarrollo del Mercado de Liquidez**  
 
-📍 **Expansion to Other Regions**  
-- **Entry into additional Middle Eastern & European markets**.  
-- Regulatory & operational **setup for new jurisdictions**.  
-- Localization with **multilingual support**.  
+📌 **Expansión de Flota y Escalado de Operaciones**  
+- Añadiendo **más flotas de alquiler** para satisfacer la creciente demanda.  
+- **Optimización del proceso de selección de vehículos** basado en datos y tendencias del mercado.  
 
-🚗 **Fleet Diversification & Scaling**  
-- **Addition of new car categories**, including economy, mid-range, and ultra-luxury.  
-- AI-driven **fleet performance tracking & dynamic replacements**.  
+📌 **Desarrollo del Mercado de Liquidez (Comercio P2P)**  
+- **Inicio del desarrollo** de **mercado secundario para acciones de flota**, permitiendo a los inversores vender sus participaciones de propiedad.  
+- Actualizaciones de contratos inteligentes para **permitir transferencias entre pares sin problemas**.  
 
-📊 **Institutional & Corporate Growth**  
-- Offering **investment packages for institutional investors**.  
-- **Integration with traditional finance (TradFi) and DeFi lending platforms**.  
-
----
-
-## **💎 Q1 - Q2 2026 – Liquidity Market & Advanced Features**  
-
-🔄 **Launch of Peer-to-Peer (P2P) Trading**  
-- Full deployment of the **Liquidity Marketplace**, allowing **ownership transfers**.  
-- **Investor-controlled asset trading** for increased liquidity.  
-
-🛠 **Platform Evolution & Automation**  
-- **Advanced fleet analytics** for better investor insights.  
-- **Automated tax reporting & legal compliance tools**.  
-
-🎯 **Aggressive Expansion & Market Growth**  
-- **Significant fleet expansion** based on user demand.  
-- **Further partnerships with high-end brands & investors**.  
-- Additional **community rewards & governance participation**.  
+📌 **Informes de Inversores y Mejoras de Plataforma**  
+- **Panel de análisis mejorado** con seguimiento en tiempo real de la flota.  
+- **Opciones de reinversión automática de ingresos** para inversores.  
 
 ---
 
-## **🚀 Beyond 2026 – Scaling Token Fleet into a Global RWA Investment Platform**  
+## **♻️ Q3 2025 – Iniciativas Ecológicas y Alianzas Estratégicas**  
 
-🌎 **Multi-Chain Expansion**  
-- Integration with **other Layer 1 & Layer 2 blockchains** for multi-chain investments.  
+🌱 **Crecimiento Sostenible de Flota**  
+- Integración de **vehículos híbridos y eléctricos (EVs)** para promover la sostenibilidad.  
+- **Alianzas con proveedores de carga para EVs** para apoyar alquileres ecológicos.  
+- **Incentivos para inversores que eligen flotas verdes**.  
 
-💼 **Expansion to New Asset Classes**  
-- Scaling into **other real-world assets (RWAs)** such as luxury properties, commercial fleets, and equipment leasing.  
+🤝 **Alianzas Estratégicas de Negocios**  
+- Colaboración con **empresas de criptomonedas, protocolos DeFi y agencias de viajes**.  
+- Expansión de **alianzas de alquiler con hoteles, organizadores de eventos y corporaciones**.  
+- **Esfuerzos conjuntos de marketing** con líderes de la industria.  
 
-📌 **Long-Term Vision**  
-- Establish **Token Fleet as the leading decentralized investment platform for real-world rental assets**.  
-- **Empower global investors** to participate in tangible, income-generating assets on-chain.  
+📈 **Experiencia de Usuario y Automatización**  
+- **Opciones de reinversión y staking automáticas**.  
+- **Optimización de precios impulsada por IA para alquileres** para maximizar ingresos.  
+- **Mejor experiencia móvil y mejoras de UI**.  
 
 ---
 
-## **🔍 Roadmap Summary**  
+## **🏙 Q4 2025 – Expansión Geográfica y de Mercado**  
 
-| **Phase**       | **Key Milestones** |
+📍 **Expansión a Otras Regiones**  
+- **Entrada en mercados adicionales de Medio Oriente y Europa**.  
+- **Configuración regulatoria y operativa para nuevas jurisdicciones**.  
+- Localización con **soporte multilingüe**.  
+
+🚗 **Diversificación y Escalado de Flota**  
+- **Adición de nuevas categorías de autos**, incluyendo economía, gama media y ultra-lujo.  
+- **Seguimiento de rendimiento de flota impulsado por IA y reemplazos dinámicos**.  
+
+📊 **Crecimiento Institucional y Corporativo**  
+- Ofrecimiento de **paquetes de inversión para inversores institucionales**.  
+- **Integración con finanzas tradicionales (TradFi) y plataformas de préstamos DeFi**.  
+
+---
+
+## **💎 Q1 - Q2 2026 – Mercado de Liquidez y Funciones Avanzadas**  
+
+🔄 **Lanzamiento de Comercio Peer-to-Peer (P2P)**  
+- Despliegue completo del **Mercado de Liquidez**, permitiendo **transferencias de propiedad**.  
+- **Comercio de activos controlado por inversores** para aumentar la liquidez.  
+
+🛠 **Evolución de Plataforma y Automatización**  
+- **Análisis avanzado de flota** para mejores conocimientos de inversores.  
+- **Informes fiscales automatizados y herramientas de cumplimiento legal**.  
+
+🎯 **Expansión Acelerada y Crecimiento de Mercado**  
+- **Expansión significativa de flota** basada en demanda de usuarios.  
+- **Más alianzas con marcas e inversores de alta gama**.  
+- Recompensas adicionales **para la comunidad y participación en gobernanza**.  
+
+---
+
+## **🚀 Más Allá de 2026 – Escalando Token Fleet a una Plataforma Global de Inversión en RWA**  
+
+🌎 **Expansión Multi-Cadena**  
+- Integración con **otras blockchains de Capa 1 y Capa 2** para inversiones multi-cadena.  
+
+💼 **Expansión a Nuevas Clases de Activos**  
+- Escalado a **otros activos del mundo real (RWAs)** como propiedades de lujo, flotas comerciales y arrendamiento de equipos.  
+
+📌 **Visión a Largo Plazo**  
+- Establecer **Token Fleet como la plataforma líder de inversión descentralizada para activos de alquiler del mundo real**.  
+- **Empoderar a inversores globales** para participar en activos tangibles generadores de ingresos en la cadena.  
+
+---
+
+## **🔍 Resumen de la Hoja de Ruta**  
+
+| **Fase**       | **Hitos Clave** |
 |----------------|-------------------|
-| **Q1 2025**  | Platform Launch, First Fleet Listings, Referral Program |
-| **Q2 2025**  | Liquidity Marketplace Development, Fleet Expansion |
-| **Q3 2025**  | Eco-Friendly Fleet, Strategic Partnerships, AI Pricing |
-| **Q4 2025**  | Geographic Expansion, Fleet Diversification |
-| **Q1 - Q2 2026** | P2P Trading, Institutional Growth, Advanced Analytics |
-| **Beyond 2026** | Multi-Chain Expansion, RWA Diversification |
+| **Q1 2025**  | Lanzamiento de Plataforma, Listados de Primeras Flotas, Programa de Referidos |
+| **Q2 2025**  | Desarrollo del Mercado de Liquidez, Expansión de Flota |
+| **Q3 2025**  | Flota Ecológica, Alianzas Estratégicas, Precios AI |
+| **Q4 2025**  | Expansión Geográfica, Diversificación de Flota |
+| **Q1 - Q2 2026** | Comercio P2P, Crecimiento Institucional, Análisis Avanzado |
+| **Más Allá de 2026** | Expansión Multi-Cadena, Diversificación de RWA |
 
 ---
 
-## **📌 Our Commitment to Investors**  
+## **📌 Nuestro Compromiso con los Inversores**  
 
-✅ **Transparent & On-Chain** – Every financial transaction, rental income, and expense is tracked **on the blockchain**.  
-✅ **Data-Driven Growth** – We continuously optimize fleet management based on **real rental data & market insights**.  
-✅ **Scalable & Sustainable** – Focused on **long-term expansion** while ensuring stable, **passive income** for investors.  
+✅ **Transparente y en la Cadena** – Cada transacción financiera, ingreso por alquiler y gasto se rastrea **en la blockchain**.  
+✅ **Crecimiento Impulsado por Datos** – Optimizamos continuamente la gestión de flotas basada en **datos reales de alquiler y conocimientos del mercado**.  
+✅ **Escalable y Sostenible** – Enfocados en **expansión a largo plazo** mientras aseguramos ingresos pasivos estables para los inversores.  
 
-🚀 **Join Token Fleet and be part of the future of decentralized car rental investments!**  
+🚀 **Únete a Token Fleet y sé parte del futuro de las inversiones descentralizadas en alquiler de autos!**  
+
+---

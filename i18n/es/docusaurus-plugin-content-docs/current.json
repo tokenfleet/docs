@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "La etiqueta para la versión actual"
+  },
+  "sidebar.tutorialSidebar.category.How It Works": {
+    "message": "Cómo Funciona",
+    "description": "La etiqueta para la categoría Cómo Funciona en el sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Financial Transparency": {
+    "message": "Transparencia Financiera",
+    "description": "La etiqueta para la categoría Transparencia Financiera en el sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Legal and Disclaimer": {
+    "message": "Legal y Descargo de Responsabilidad",
+    "description": "La etiqueta para la categoría Legal y Descargo de Responsabilidad en el sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Security and Compliances": {
+    "message": "Seguridad y Cumplimientos",
+    "description": "La etiqueta para la categoría Seguridad y Cumplimientos en el sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Team and Partners": {
+    "message": "Equipo y Socios",
+    "description": "La etiqueta para la categoría Equipo y Socios en el sidebar tutorialSidebar"
+  }
+}

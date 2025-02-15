@@ -1,0 +1,62 @@
+{
+  "link.title.Documentation": {
+    "message": "Documentación",
+    "description": "El título de la columna de enlaces del pie de página con title=Documentación en el pie de página"
+  },
+  "link.title.Community": {
+    "message": "Comunidad",
+    "description": "El título de la columna de enlaces del pie de página con title=Comunidad en el pie de página"
+  },
+  "link.title.Follow Us": {
+    "message": "Síguenos",
+    "description": "El título de la columna de enlaces del pie de página con title=Síguenos en el pie de página"
+  },
+  "link.item.label.Website": {
+    "message": "Sitio Web",
+    "description": "La etiqueta del enlace del pie de página con label=Sitio Web enlazando a https://tokenfleet.io"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introducción",
+    "description": "La etiqueta del enlace del pie de página con label=Introducción enlazando a /"
+  },
+  "link.item.label.Investment Risks": {
+    "message": "Riesgos de Inversión",
+    "description": "La etiqueta del enlace del pie de página con label=Riesgos de Inversión enlazando a /legal/investment_risks"
+  },
+  "link.item.label.Contact and Support": {
+    "message": "Contacto y Soporte",
+    "description": "La etiqueta del enlace del pie de página con label=Contacto y Soporte enlazando a /contact_us"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "La etiqueta del enlace del pie de página con label=Telegram enlazando a https://t.me/tokenfleet_io"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "La etiqueta del enlace del pie de página con label=Twitter enlazando a https://twitter.com/tokenfleet_io"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "La etiqueta del enlace del pie de página con label=Facebook enlazando a https://www.facebook.com/profile.php?id=61568084092915"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "La etiqueta del enlace del pie de página con label=Instagram enlazando a https://www.instagram.com/tokenfleet"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "La etiqueta del enlace del pie de página con label=LinkedIn enlazando a https://www.linkedin.com/company/tokenfleet"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "La etiqueta del enlace del pie de página con label=YouTube enlazando a https://www.youtube.com/channel/UCOjJJAKCuCJgOmKHHRh_4ZQ"
+  },
+  "link.item.label.TikTok": {
+    "message": "TikTok",
+    "description": "La etiqueta del enlace del pie de página con label=TikTok enlazando a https://www.tiktok.com/tokenfleet"
+  },
+  "copyright": {
+    "message": "Copyright 2025 Token Fleet, por Reliable Route.",
+    "description": "El copyright del pie de página"
+  }
+}
