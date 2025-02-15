@@ -5,7 +5,7 @@
       "versions": [
         {
           "name": "current",
-          "label": "Next",
+          "label": "Siguiente",
           "isLast": true,
           "path": "/es/",
           "mainDocId": "intro",

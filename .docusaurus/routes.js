@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/es/blog',
-    component: ComponentCreator('/es/blog', '334'),
+    component: ComponentCreator('/es/blog', 'f22'),
     exact: true
   },
   {
@@ -19,12 +19,12 @@ export default [
   },
   {
     path: '/es/blog/authors/erika',
-    component: ComponentCreator('/es/blog/authors/erika', '048'),
+    component: ComponentCreator('/es/blog/authors/erika', 'e55'),
     exact: true
   },
   {
     path: '/es/blog/authors/marcos',
-    component: ComponentCreator('/es/blog/authors/marcos', '544'),
+    component: ComponentCreator('/es/blog/authors/marcos', '001'),
     exact: true
   },
   {
@@ -34,22 +34,22 @@ export default [
   },
   {
     path: '/es/blog/tags/fleet',
-    component: ComponentCreator('/es/blog/tags/fleet', '1fe'),
+    component: ComponentCreator('/es/blog/tags/fleet', 'f9c'),
     exact: true
   },
   {
     path: '/es/blog/tags/token',
-    component: ComponentCreator('/es/blog/tags/token', 'b46'),
+    component: ComponentCreator('/es/blog/tags/token', '44e'),
     exact: true
   },
   {
     path: '/es/blog/tags/welcome',
-    component: ComponentCreator('/es/blog/tags/welcome', '849'),
+    component: ComponentCreator('/es/blog/tags/welcome', 'f9c'),
     exact: true
   },
   {
     path: '/es/blog/welcome',
-    component: ComponentCreator('/es/blog/welcome', '244'),
+    component: ComponentCreator('/es/blog/welcome', '150'),
     exact: true
   },
   {

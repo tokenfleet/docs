@@ -62,7 +62,7 @@ export default {
     "navbar": {
       "title": "Token Fleet",
       "logo": {
-        "alt": "Token Fleet Logo",
+        "alt": "Logo de Token Fleet",
         "src": "img/logo.svg"
       },
       "items": [
@@ -70,7 +70,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Docs"
+          "label": "Documentación"
         },
         {
           "to": "/blog",
@@ -95,28 +95,28 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Documentation",
+          "title": "Documentación",
           "items": [
             {
-              "label": "Website",
+              "label": "Sitio Web",
               "href": "https://tokenfleet.io"
             },
             {
-              "label": "Introduction",
+              "label": "Introducción",
               "to": "/"
             },
             {
-              "label": "Investment Risks",
+              "label": "Riesgos de Inversión",
               "to": "/legal/investment_risks"
             },
             {
-              "label": "Contact and Support",
+              "label": "Contacto y Soporte",
               "to": "/contact_us"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Comunidad",
           "items": [
             {
               "label": "Telegram",
@@ -133,7 +133,7 @@ export default {
           ]
         },
         {
-          "title": "Follow Us",
+          "title": "Síguenos",
           "items": [
             {
               "label": "Instagram",
@@ -154,7 +154,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Token Fleet, by Reliable Route."
+      "copyright": "Copyright 2025 Token Fleet, por Reliable Route."
     },
     "prism": {
       "theme": {
