@@ -1,0 +1,14 @@
+token:
+  label: Flota de Tokens
+  permalink: /token
+  description: Flota de Tokens
+
+fleet:
+  label: Flota de Tokens
+  permalink: /fleet
+  description: Flota de Tokens
+
+welcome:
+  label: Bienvenido
+  permalink: /welcome
+  description: Bienvenido a nuestra Plataforma

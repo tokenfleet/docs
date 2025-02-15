@@ -1,0 +1,18 @@
+marcos:
+  name: Marcos Maceo
+  title: Fundador de Flota de Tokens
+  url: https://github.com/stdevMac
+  image_url: https://github.com/stdevMac.png
+  page: true
+  socials:
+    x: maceo_eth
+    github: stdevMac
+
+erika:
+  name: Erika Ramos
+  title: Directora de Marketing
+  image_url: https://github.com/Erita2000.png
+  page: true
+  socials:
+    x: Erita2807
+    github: Erita2000
