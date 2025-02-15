@@ -54,7 +54,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/cover.jpg',
     navbar: {
       title: 'Token Fleet',
       logo: {
