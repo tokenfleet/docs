@@ -145,6 +145,11 @@ const config: Config = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Token Fleet, by Reliable Route.`,
     },
+    algolia: {
+      appId: 'WQ46QGDFIR',
+      apiKey: '934cd38474eb4faa90ec6012beb2542f',
+      indexName: 'tokenfleet'
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
