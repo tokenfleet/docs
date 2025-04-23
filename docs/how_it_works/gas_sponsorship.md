@@ -10,10 +10,12 @@ Token Fleet provides **automatic gas sponsorship** to ensure a seamless transact
 ## 🔄 How Gas Sponsorship Works
 
 ### Eligibility Criteria
+
 - **💰 Balance Check**: The system automatically checks if your wallet contains less than **0.00008 ETH**.
 - **⏱️ Time Restriction**: A minimum of **3 days** must pass between sponsorships to the same user.
 
 ### Sponsorship Process
+
 - **🔍 Automatic Detection**: When you initiate a transaction on our platform, our system checks your wallet balance.
 - **💸 Gas Transfer**: If eligible, we automatically transfer **0.00002 ETH** to your wallet.
 - **✅ Transaction Continuation**: The transaction then proceeds normally with the newly added funds covering the gas fees.
@@ -35,5 +37,6 @@ Token Fleet provides **automatic gas sponsorship** to ensure a seamless transact
 ---
 
 ## Related Information
-- 🚗 [Rental Operations](./rental_operations.md)
-- 💎 [Investor Rewards](./investor_rewards.md)
+
+- 🚗 [Rental Operations](./rental_operations)
+- 💎 [Investor Rewards](./investor_rewards)
