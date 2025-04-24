@@ -4,10 +4,96 @@
         <title>Token Fleet Blog</title>
         <link>https://docs.tokenfleet.io/blog</link>
         <description>Token Fleet Blog</description>
-        <lastBuildDate>Mon, 17 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Token Fleet Smart Contract Audit Report]]></title>
+            <link>https://docs.tokenfleet.io/blog/audit-report</link>
+            <guid>https://docs.tokenfleet.io/blog/audit-report</guid>
+            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello Token Fleet community!]]></description>
+            <content:encoded><![CDATA[<p>Hello Token Fleet community!</p>
+<p>We’re excited to share that Token Fleet’s smart contracts have been <strong>successfully audited</strong> by the renowned <strong>Nethermind Security team</strong>.</p>
+<p>Security is the foundation of everything we build. Before bringing Token Fleet to life, we made sure our code was tested, reviewed, and verified by experts.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-why-smart-contract-audits-matter">🚗 Why Smart Contract Audits Matter<a href="https://docs.tokenfleet.io/blog/audit-report#-why-smart-contract-audits-matter" class="hash-link" aria-label="Direct link to 🚗 Why Smart Contract Audits Matter" title="Direct link to 🚗 Why Smart Contract Audits Matter">​</a></h2>
+<p>At Token Fleet, smart contracts handle:</p>
+<ul>
+<li>Fractional car ownership</li>
+<li>Rental income tracking</li>
+<li>User rewards and income distribution</li>
+<li>Secure, transparent asset management</li>
+</ul>
+<p>This is why we invested in a full <strong>security review</strong> of our system. It’s not just about trust, it’s about ensuring that every user interaction is protected by solid code.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-audit-highlights">🔍 Audit Highlights<a href="https://docs.tokenfleet.io/blog/audit-report#-audit-highlights" class="hash-link" aria-label="Direct link to 🔍 Audit Highlights" title="Direct link to 🔍 Audit Highlights">​</a></h2>
+<ul>
+<li><strong>769 lines of Solidity code</strong> reviewed</li>
+<li><strong>67/67 tests passed</strong>, zero failed</li>
+<li><strong>No critical vulnerabilities</strong></li>
+<li><strong>1 High</strong> issue: <strong>Fixed</strong></li>
+<li><strong>2 Medium</strong> issues: <strong>1 Fixed, 1 Acknowledged</strong></li>
+<li><strong>2 Low</strong> issues: <strong>Acknowledged</strong></li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-fixed-issues">🔥 Fixed Issues<a href="https://docs.tokenfleet.io/blog/audit-report#-fixed-issues" class="hash-link" aria-label="Direct link to 🔥 Fixed Issues" title="Direct link to 🔥 Fixed Issues">​</a></h3>
+<ol>
+<li>
+<p><strong>Fundraising Target Logic</strong><br>
+<!-- -->Corrected to ensure that all contributions are tracked accurately.</p>
+</li>
+<li>
+<p><strong>Reward Claiming Accuracy</strong><br>
+<!-- -->Now ensures users always receive full rewards, without loss from rounding errors.</p>
+</li>
+</ol>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-acknowledged-issues">⚠️ Acknowledged Issues<a href="https://docs.tokenfleet.io/blog/audit-report#%EF%B8%8F-acknowledged-issues" class="hash-link" aria-label="Direct link to ⚠️ Acknowledged Issues" title="Direct link to ⚠️ Acknowledged Issues">​</a></h3>
+<ol>
+<li>
+<p><strong>Referral Rewards</strong><br>
+<!-- -->Referral rewards could lock if a user has no referrer. Our system enforces referrers on signup to avoid this.</p>
+</li>
+<li>
+<p><strong>Deal Deadlines</strong><br>
+<!-- -->Deals can close after a deadline if users don’t cancel. Deadlines serve as user protection, not a strict blocker.</p>
+</li>
+<li>
+<p><strong>Portfolio Approval Flexibility</strong><br>
+<!-- -->Token approvals can currently be handled through a low-level function. This is functional and may be improved later.</p>
+</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-full-audit-report">📄 Full Audit Report<a href="https://docs.tokenfleet.io/blog/audit-report#-full-audit-report" class="hash-link" aria-label="Direct link to 📄 Full Audit Report" title="Direct link to 📄 Full Audit Report">​</a></h2>
+<p>For those who like details, the full audit report is available here:<br>
+<!-- -->👉 <a href="https://tokenfleet.io/audit" target="_blank" rel="noopener noreferrer">tokenfleet.io/audit</a></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-what-this-means-for-you">🛠️ What This Means for You<a href="https://docs.tokenfleet.io/blog/audit-report#%EF%B8%8F-what-this-means-for-you" class="hash-link" aria-label="Direct link to 🛠️ What This Means for You" title="Direct link to 🛠️ What This Means for You">​</a></h2>
+<p>This audit proves that:</p>
+<ul>
+<li><strong>Security is not an afterthought</strong></li>
+<li><strong>Ownership and rental income are protected</strong></li>
+<li><strong>Smart contracts are reliable and transparent</strong></li>
+</ul>
+<p>We’re building a platform where <strong>real cars meet real returns</strong>. You can trust the technology behind your investments.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-whats-next">🚀 What’s Next?<a href="https://docs.tokenfleet.io/blog/audit-report#-whats-next" class="hash-link" aria-label="Direct link to 🚀 What’s Next?" title="Direct link to 🚀 What’s Next?">​</a></h2>
+<p>We’re almost ready to launch. Token Fleet will soon open up a new era of decentralized car ownership and income.</p>
+<p><strong>Own cars. Earn yield. Trust the code.</strong></p>
+<hr>
+<p>Stay tuned, and thank you for being part of our journey!</p>
+<ul>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/tokenfleet_io" target="_blank" rel="noopener noreferrer">@tokenfleet_io</a></li>
+<li><strong>Telegram</strong>: <a href="https://t.me/tokenfleet_io" target="_blank" rel="noopener noreferrer">@tokenfleet_io</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://linkedin.com/company/tokenfleet" target="_blank" rel="noopener noreferrer">Token Fleet</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/profile.php?id=61568084092915" target="_blank" rel="noopener noreferrer">Token Fleet Official</a></li>
+</ul>]]></content:encoded>
+            <category>Audit</category>
+            <category>Security</category>
+            <category>tokenfleet</category>
+            <category>Nethermind</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://docs.tokenfleet.io/blog/welcome</link>

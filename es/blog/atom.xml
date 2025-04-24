@@ -2,11 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.tokenfleet.io/es/blog</id>
     <title>Token Fleet Blog</title>
-    <updated>2025-02-17T00:00:00.000Z</updated>
+    <updated>2025-04-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.tokenfleet.io/es/blog"/>
     <subtitle>Token Fleet Blog</subtitle>
     <icon>https://docs.tokenfleet.io/es/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Informe de Auditoría de Smart Contracts de Token Fleet]]></title>
+        <id>https://docs.tokenfleet.io/es/blog/audit-report</id>
+        <link href="https://docs.tokenfleet.io/es/blog/audit-report"/>
+        <updated>2025-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[¡Hola comunidad de Token Fleet!]]></summary>
+        <content type="html"><![CDATA[<p>¡Hola comunidad de Token Fleet!</p>
+<p>Nos complace anunciar que los smart contracts de Token Fleet han sido <strong>auditados con éxito</strong> por el reconocido equipo de <strong>Nethermind Security</strong>.</p>
+<p>La seguridad es la base de todo lo que construimos. Antes de lanzar Token Fleet, nos aseguramos de que nuestro código fuera probado, revisado y verificado por expertos.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-por-qué-importa-auditar-smart-contracts">🚗 ¿Por Qué Importa Auditar Smart Contracts?<a href="https://docs.tokenfleet.io/es/blog/audit-report#-por-qu%C3%A9-importa-auditar-smart-contracts" class="hash-link" aria-label="Enlace directo al 🚗 ¿Por Qué Importa Auditar Smart Contracts?" title="Enlace directo al 🚗 ¿Por Qué Importa Auditar Smart Contracts?">​</a></h2>
+<p>En Token Fleet, los smart contracts gestionan:</p>
+<ul>
+<li>Propiedad fraccionada de vehículos</li>
+<li>Seguimiento de ingresos por alquiler</li>
+<li>Recompensas y distribución de ingresos</li>
+<li>Gestión de activos segura y transparente</li>
+</ul>
+<p>Por eso invertimos en una revisión <strong>completa de seguridad</strong> de nuestro sistema. No se trata solo de confianza, se trata de garantizar que cada interacción del usuario esté protegida por un código sólido.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-puntos-destacados-de-la-auditoría">🔍 Puntos Destacados de la Auditoría<a href="https://docs.tokenfleet.io/es/blog/audit-report#-puntos-destacados-de-la-auditor%C3%ADa" class="hash-link" aria-label="Enlace directo al 🔍 Puntos Destacados de la Auditoría" title="Enlace directo al 🔍 Puntos Destacados de la Auditoría">​</a></h2>
+<ul>
+<li><strong>769 líneas de código Solidity</strong> revisadas</li>
+<li><strong>67/67 pruebas superadas</strong>, ninguna fallida</li>
+<li><strong>Sin vulnerabilidades críticas</strong></li>
+<li><strong>1 incidencia Alta</strong>: <strong>Corregida</strong></li>
+<li><strong>2 incidencias Medias</strong>: <strong>1 Corregida, 1 Reconocida</strong></li>
+<li><strong>2 incidencias Bajas</strong>: <strong>Reconocidas</strong></li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-incidencias-corregidas">🔥 Incidencias Corregidas<a href="https://docs.tokenfleet.io/es/blog/audit-report#-incidencias-corregidas" class="hash-link" aria-label="Enlace directo al 🔥 Incidencias Corregidas" title="Enlace directo al 🔥 Incidencias Corregidas">​</a></h3>
+<ol>
+<li>
+<p><strong>Lógica del Objetivo de Recaudación</strong><br>
+<!-- -->Corregido para garantizar que todas las contribuciones se registren con precisión.</p>
+</li>
+<li>
+<p><strong>Precisión en el Reclamo de Recompensas</strong><br>
+<!-- -->Ahora asegura que los usuarios siempre reciban sus recompensas completas, sin pérdidas por redondeo.</p>
+</li>
+</ol>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-incidencias-reconocidas">⚠️ Incidencias Reconocidas<a href="https://docs.tokenfleet.io/es/blog/audit-report#%EF%B8%8F-incidencias-reconocidas" class="hash-link" aria-label="Enlace directo al ⚠️ Incidencias Reconocidas" title="Enlace directo al ⚠️ Incidencias Reconocidas">​</a></h3>
+<ol>
+<li>
+<p><strong>Recompensas por Referidos</strong><br>
+<!-- -->Las recompensas podrían quedar bloqueadas si un usuario no tiene referidor. Nuestro sistema exige referidores al registrarse para evitar esto.</p>
+</li>
+<li>
+<p><strong>Fechas Límite de las Ofertas</strong><br>
+<!-- -->Las ofertas pueden cerrarse después de una fecha límite si los usuarios no las cancelan. Las fechas límite sirven como protección, no como bloqueo estricto.</p>
+</li>
+<li>
+<p><strong>Flexibilidad en la Aprobación de Portafolios</strong><br>
+<!-- -->Las aprobaciones de tokens pueden gestionarse actualmente mediante una función de bajo nivel. Esto funciona y podría mejorarse más adelante.</p>
+</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-informe-completo-de-la-auditoría">📄 Informe Completo de la Auditoría<a href="https://docs.tokenfleet.io/es/blog/audit-report#-informe-completo-de-la-auditor%C3%ADa" class="hash-link" aria-label="Enlace directo al 📄 Informe Completo de la Auditoría" title="Enlace directo al 📄 Informe Completo de la Auditoría">​</a></h2>
+<p>Para quienes disfrutan de los detalles, el informe completo de la auditoría está disponible aquí:<br>
+<!-- -->👉 <a href="https://tokenfleet.io/audit" target="_blank" rel="noopener noreferrer">tokenfleet.io/audit</a></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-qué-significa-esto-para-ti">🛠️ ¿Qué Significa Esto para Ti?<a href="https://docs.tokenfleet.io/es/blog/audit-report#%EF%B8%8F-qu%C3%A9-significa-esto-para-ti" class="hash-link" aria-label="Enlace directo al 🛠️ ¿Qué Significa Esto para Ti?" title="Enlace directo al 🛠️ ¿Qué Significa Esto para Ti?">​</a></h2>
+<p>Esta auditoría demuestra que:</p>
+<ul>
+<li><strong>La seguridad no es una idea secundaria</strong></li>
+<li><strong>La propiedad y los ingresos por alquiler están protegidos</strong></li>
+<li><strong>Los smart contracts son fiables y transparentes</strong></li>
+</ul>
+<p>Estamos construyendo una plataforma donde <strong>los coches reales generan rendimientos reales</strong>. Puedes confiar en la tecnología detrás de tus inversiones.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-qué-sigue">🚀 ¿Qué Sigue?<a href="https://docs.tokenfleet.io/es/blog/audit-report#-qu%C3%A9-sigue" class="hash-link" aria-label="Enlace directo al 🚀 ¿Qué Sigue?" title="Enlace directo al 🚀 ¿Qué Sigue?">​</a></h2>
+<p>Estamos casi listos para el lanzamiento. Token Fleet pronto abrirá una nueva era de propiedad descentralizada de vehículos e ingresos.</p>
+<p><strong>Posee coches. Genera ingresos. Confía en el código.</strong></p>
+<hr>
+<p>¡Sigue atento y gracias por ser parte de nuestro viaje!</p>
+<ul>
+<li><strong>Twitter</strong>: <a href="https://twitter.com/tokenfleet_io" target="_blank" rel="noopener noreferrer">@tokenfleet_io</a></li>
+<li><strong>Telegram</strong>: <a href="https://t.me/tokenfleet_io" target="_blank" rel="noopener noreferrer">@tokenfleet_io</a></li>
+<li><strong>LinkedIn</strong>: <a href="https://linkedin.com/company/tokenfleet" target="_blank" rel="noopener noreferrer">Token Fleet</a></li>
+<li><strong>Facebook</strong>: <a href="https://www.facebook.com/profile.php?id=61568084092915" target="_blank" rel="noopener noreferrer">Token Fleet Official</a></li>
+</ul>]]></content>
+        <author>
+            <name>Marcos Maceo</name>
+            <uri>https://github.com/stdevMac</uri>
+        </author>
+        <author>
+            <name>Andy Ledesma</name>
+        </author>
+        <category label="Auditoría" term="Auditoría"/>
+        <category label="Seguridad" term="Seguridad"/>
+        <category label="tokenfleet" term="tokenfleet"/>
+        <category label="Nethermind" term="Nethermind"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bienvenido]]></title>
         <id>https://docs.tokenfleet.io/es/blog/bienvenido</id>
@@ -40,8 +133,8 @@
         <author>
             <name>Erika Ramos</name>
         </author>
-        <category label="Flota de Tokens" term="Flota de Tokens"/>
-        <category label="Flota de Tokens" term="Flota de Tokens"/>
+        <category label="Token Fleet" term="Token Fleet"/>
+        <category label="Token Fleet" term="Token Fleet"/>
         <category label="Bienvenido" term="Bienvenido"/>
     </entry>
 </feed>
