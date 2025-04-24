@@ -1,14 +1,34 @@
 token:
-  label: Flota de Tokens
+  label: Token Fleet
   permalink: /token
-  description: Flota de Tokens
+  description: Token Fleet
 
 fleet:
-  label: Flota de Tokens
+  label: Token Fleet
   permalink: /fleet
-  description: Flota de Tokens
+  description: Token Fleet
 
 welcome:
   label: Bienvenido
   permalink: /welcome
   description: Bienvenido a nuestra Plataforma
+
+audit:
+  label: Auditoría
+  permalink: /audit
+  description: Reporte de Auditorías
+
+security:
+  label: Seguridad
+  permalink: /security
+  description: Seguridad de contratos inteligentes, auditorías y confianza en Token Fleet.
+
+nethermind:
+  label: Nethermind
+  permalink: /nethermind
+  description: Información y colaboraciones con Nethermind, nuestro socio de auditoría.
+
+smart-contracts:
+  label: Contratos Inteligentes
+  permalink: /smart-contracts
+  description: Todo sobre los sistemas de contratos inteligentes que impulsan Token Fleet.

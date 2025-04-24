@@ -16,3 +16,12 @@ erika:
   socials:
     x: Erita2807
     github: Erita2000
+
+andy:
+  name: Andy Ledesma
+  title: Smart Contracts Developer
+  image_url: https://github.com/MakeMake23.png
+  page: true
+  socials:
+    x: make_make23
+    github: MakeMake23

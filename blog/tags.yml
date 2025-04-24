@@ -12,3 +12,23 @@ welcome:
   label: Welcome
   permalink: /welcome
   description: Welcome to our Platform
+
+audit:
+  label: Audit
+  permalink: /audit
+  description: Audit Report
+
+security:
+  label: Security
+  permalink: /security
+  description: Smart contract security, audits, and trust in Token Fleet.
+
+nethermind:
+  label: Nethermind
+  permalink: /nethermind
+  description: Insights and collaborations with Nethermind, our audit partner.
+
+smart-contracts:
+  label: Smart Contracts
+  permalink: /smart-contracts
+  description: Everything about the smart contract systems powering Token Fleet.
